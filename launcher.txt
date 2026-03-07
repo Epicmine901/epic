@@ -1,0 +1,456 @@
+[01-24 12:47:55.972] [info] [thread 8224] enter main
+[01-24 12:47:56.619] [info] [thread 8224] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--reason=2, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-24 12:47:56.620] [info] [thread 8224] cha. Init language init bRet:true
+[01-24 12:47:56.620] [info] [thread 8224] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-24 12:47:56.620] [info] [thread 8224] cha. SetAppFlag success
+[01-24 12:47:56.620] [info] [thread 8224] cha. enter Startup
+[01-24 12:47:57.668] [info] [thread 8224] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --reason=2, hRet:42, bRet:true, bFileExist:true
+[01-24 12:47:57.668] [info] [thread 8224] leave main bRet:true
+[01-24 22:28:59.160] [info] [thread 8860] enter main
+[01-24 22:28:59.286] [info] [thread 8860] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-24 22:28:59.286] [info] [thread 8860] cha. Init language init bRet:true
+[01-24 22:28:59.286] [info] [thread 8860] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-24 22:28:59.286] [info] [thread 8860] cha. SetAppFlag success
+[01-24 22:28:59.286] [info] [thread 8860] cha. enter Startup
+[01-24 22:29:00.315] [info] [thread 8860] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-24 22:29:00.317] [info] [thread 8860] leave main bRet:true
+[01-24 23:27:04.454] [info] [thread 9964] enter main
+[01-24 23:27:04.963] [info] [thread 9964] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-24 23:27:04.963] [info] [thread 9964] cha. Init language init bRet:true
+[01-24 23:27:04.963] [info] [thread 9964] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-24 23:27:04.963] [info] [thread 9964] cha. SetAppFlag success
+[01-24 23:27:04.963] [info] [thread 9964] cha. enter Startup
+[01-24 23:27:06.000] [info] [thread 9964] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-24 23:27:06.000] [info] [thread 9964] leave main bRet:true
+[01-25 12:29:23.079] [info] [thread 9912] enter main
+[01-25 12:29:23.600] [info] [thread 9912] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-25 12:29:23.601] [info] [thread 9912] cha. Init language init bRet:true
+[01-25 12:29:23.601] [info] [thread 9912] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-25 12:29:23.601] [info] [thread 9912] cha. SetAppFlag success
+[01-25 12:29:23.601] [info] [thread 9912] cha. enter Startup
+[01-25 12:29:24.634] [info] [thread 9912] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-25 12:29:24.635] [info] [thread 9912] leave main bRet:true
+[01-26 13:29:42.093] [info] [thread 3616] enter main
+[01-26 13:29:42.612] [info] [thread 3616] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-26 13:29:42.612] [info] [thread 3616] cha. Init language init bRet:true
+[01-26 13:29:42.612] [info] [thread 3616] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-26 13:29:42.612] [info] [thread 3616] cha. SetAppFlag success
+[01-26 13:29:42.612] [info] [thread 3616] cha. enter Startup
+[01-26 13:29:43.647] [info] [thread 3616] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-26 13:29:43.648] [info] [thread 3616] leave main bRet:true
+[01-26 17:32:03.380] [info] [thread 4756] enter main
+[01-26 17:32:03.468] [info] [thread 4756] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-26 17:32:03.468] [info] [thread 4756] cha. Init language init bRet:true
+[01-26 17:32:03.468] [info] [thread 4756] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-26 17:32:03.468] [info] [thread 4756] cha. SetAppFlag success
+[01-26 17:32:03.468] [info] [thread 4756] cha. enter Startup
+[01-26 17:32:04.497] [info] [thread 4756] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-26 17:32:04.498] [info] [thread 4756] leave main bRet:true
+[01-26 21:06:46.804] [info] [thread 9604] enter main
+[01-26 21:06:46.882] [info] [thread 9604] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-26 21:06:46.882] [info] [thread 9604] cha. Init language init bRet:true
+[01-26 21:06:46.882] [info] [thread 9604] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-26 21:06:46.882] [info] [thread 9604] cha. SetAppFlag success
+[01-26 21:06:46.882] [info] [thread 9604] cha. enter Startup
+[01-26 21:06:47.915] [info] [thread 9604] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-26 21:06:47.916] [info] [thread 9604] leave main bRet:true
+[01-27 11:05:44.306] [info] [thread 8488] enter main
+[01-27 11:05:45.297] [info] [thread 8488] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-27 11:05:45.297] [info] [thread 8488] cha. Init language init bRet:true
+[01-27 11:05:45.297] [info] [thread 8488] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-27 11:05:45.297] [info] [thread 8488] cha. SetAppFlag success
+[01-27 11:05:45.297] [info] [thread 8488] cha. enter Startup
+[01-27 11:05:46.325] [info] [thread 8488] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-27 11:05:46.327] [info] [thread 8488] leave main bRet:true
+[01-27 13:31:35.919] [info] [thread 3684] enter main
+[01-27 13:31:36.092] [info] [thread 3684] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-27 13:31:36.092] [info] [thread 3684] cha. Init language init bRet:true
+[01-27 13:31:36.092] [info] [thread 3684] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-27 13:31:36.092] [info] [thread 3684] cha. SetAppFlag success
+[01-27 13:31:36.092] [info] [thread 3684] cha. enter Startup
+[01-27 13:31:37.127] [info] [thread 3684] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-27 13:31:37.128] [info] [thread 3684] leave main bRet:true
+[01-27 18:41:24.813] [info] [thread 4040] enter main
+[01-27 18:41:25.403] [info] [thread 4040] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-27 18:41:25.403] [info] [thread 4040] cha. Init language init bRet:true
+[01-27 18:41:25.403] [info] [thread 4040] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-27 18:41:25.403] [info] [thread 4040] cha. SetAppFlag success
+[01-27 18:41:25.403] [info] [thread 4040] cha. enter Startup
+[01-27 18:41:26.444] [info] [thread 4040] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-27 18:41:26.444] [info] [thread 4040] leave main bRet:true
+[01-27 20:17:30.783] [info] [thread 5084] enter main
+[01-27 20:17:31.310] [info] [thread 5084] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-27 20:17:31.310] [info] [thread 5084] cha. Init language init bRet:true
+[01-27 20:17:31.310] [info] [thread 5084] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-27 20:17:31.311] [info] [thread 5084] cha. SetAppFlag success
+[01-27 20:17:31.311] [info] [thread 5084] cha. enter Startup
+[01-27 20:17:32.331] [info] [thread 5084] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-27 20:17:32.332] [info] [thread 5084] leave main bRet:true
+[01-27 21:21:00.317] [info] [thread 4316] enter main
+[01-27 21:21:01.368] [info] [thread 4316] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-27 21:21:01.368] [info] [thread 4316] cha. Init language init bRet:true
+[01-27 21:21:01.368] [info] [thread 4316] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-27 21:21:01.368] [info] [thread 4316] cha. SetAppFlag success
+[01-27 21:21:01.368] [info] [thread 4316] cha. enter Startup
+[01-27 21:21:02.396] [info] [thread 4316] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-27 21:21:02.396] [info] [thread 4316] leave main bRet:true
+[01-27 22:03:10.058] [info] [thread 9496] enter main
+[01-27 22:03:10.331] [info] [thread 9496] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-27 22:03:10.331] [info] [thread 9496] cha. Init language init bRet:true
+[01-27 22:03:10.331] [info] [thread 9496] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-27 22:03:10.331] [info] [thread 9496] cha. SetAppFlag success
+[01-27 22:03:10.331] [info] [thread 9496] cha. enter Startup
+[01-27 22:03:11.364] [info] [thread 9496] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-27 22:03:11.365] [info] [thread 9496] leave main bRet:true
+[01-27 23:22:56.256] [info] [thread 6556] enter main
+[01-27 23:22:56.577] [info] [thread 6556] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-27 23:22:56.577] [info] [thread 6556] cha. Init language init bRet:true
+[01-27 23:22:56.577] [info] [thread 6556] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-27 23:22:56.577] [info] [thread 6556] cha. SetAppFlag success
+[01-27 23:22:56.577] [info] [thread 6556] cha. enter Startup
+[01-27 23:22:57.611] [info] [thread 6556] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-27 23:22:57.611] [info] [thread 6556] leave main bRet:true
+[01-28 15:33:42.408] [info] [thread 9012] enter main
+[01-28 15:33:42.929] [info] [thread 9012] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-28 15:33:42.929] [info] [thread 9012] cha. Init language init bRet:true
+[01-28 15:33:42.929] [info] [thread 9012] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-28 15:33:42.929] [info] [thread 9012] cha. SetAppFlag success
+[01-28 15:33:42.929] [info] [thread 9012] cha. enter Startup
+[01-28 15:33:43.958] [info] [thread 9012] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-28 15:33:43.960] [info] [thread 9012] leave main bRet:true
+[01-28 17:04:32.559] [info] [thread 2868] enter main
+[01-28 17:04:32.744] [info] [thread 2868] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-28 17:04:32.745] [info] [thread 2868] cha. Init language init bRet:true
+[01-28 17:04:32.745] [info] [thread 2868] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-28 17:04:32.745] [info] [thread 2868] cha. SetAppFlag success
+[01-28 17:04:32.745] [info] [thread 2868] cha. enter Startup
+[01-28 17:04:33.778] [info] [thread 2868] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-28 17:04:33.779] [info] [thread 2868] leave main bRet:true
+[01-29 12:04:24.277] [info] [thread 10120] enter main
+[01-29 12:04:24.794] [info] [thread 10120] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-29 12:04:24.795] [info] [thread 10120] cha. Init language init bRet:true
+[01-29 12:04:24.795] [info] [thread 10120] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-29 12:04:24.795] [info] [thread 10120] cha. SetAppFlag success
+[01-29 12:04:24.795] [info] [thread 10120] cha. enter Startup
+[01-29 12:04:25.831] [info] [thread 10120] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-29 12:04:25.831] [info] [thread 10120] leave main bRet:true
+[01-29 19:12:58.396] [info] [thread 3340] enter main
+[01-29 19:12:58.910] [info] [thread 3340] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-29 19:12:58.910] [info] [thread 3340] cha. Init language init bRet:true
+[01-29 19:12:58.910] [info] [thread 3340] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-29 19:12:58.910] [info] [thread 3340] cha. SetAppFlag success
+[01-29 19:12:58.910] [info] [thread 3340] cha. enter Startup
+[01-29 19:12:59.944] [info] [thread 3340] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-29 19:12:59.944] [info] [thread 3340] leave main bRet:true
+[01-29 21:59:31.937] [info] [thread 3884] enter main
+[01-29 21:59:33.003] [info] [thread 3884] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-29 21:59:33.003] [info] [thread 3884] cha. Init language init bRet:true
+[01-29 21:59:33.003] [info] [thread 3884] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-29 21:59:33.003] [info] [thread 3884] cha. SetAppFlag success
+[01-29 21:59:33.003] [info] [thread 3884] cha. enter Startup
+[01-29 21:59:34.040] [info] [thread 3884] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-29 21:59:34.040] [info] [thread 3884] leave main bRet:true
+[01-30 12:59:15.910] [info] [thread 1200] enter main
+[01-30 12:59:16.425] [info] [thread 1200] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-30 12:59:16.425] [info] [thread 1200] cha. Init language init bRet:true
+[01-30 12:59:16.425] [info] [thread 1200] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-30 12:59:16.425] [info] [thread 1200] cha. SetAppFlag success
+[01-30 12:59:16.425] [info] [thread 1200] cha. enter Startup
+[01-30 12:59:17.460] [info] [thread 1200] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-30 12:59:17.461] [info] [thread 1200] leave main bRet:true
+[01-30 16:28:54.192] [info] [thread 8712] enter main
+[01-30 16:28:54.708] [info] [thread 8712] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-30 16:28:54.708] [info] [thread 8712] cha. Init language init bRet:true
+[01-30 16:28:54.708] [info] [thread 8712] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-30 16:28:54.708] [info] [thread 8712] cha. SetAppFlag success
+[01-30 16:28:54.708] [info] [thread 8712] cha. enter Startup
+[01-30 16:28:55.739] [info] [thread 8712] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-30 16:28:55.740] [info] [thread 8712] leave main bRet:true
+[01-31 13:10:07.522] [info] [thread 6960] enter main
+[01-31 13:10:07.598] [info] [thread 6960] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-31 13:10:07.598] [info] [thread 6960] cha. Init language init bRet:true
+[01-31 13:10:07.598] [info] [thread 6960] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-31 13:10:07.598] [info] [thread 6960] cha. SetAppFlag success
+[01-31 13:10:07.598] [info] [thread 6960] cha. enter Startup
+[01-31 13:10:08.625] [info] [thread 6960] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-31 13:10:08.627] [info] [thread 6960] leave main bRet:true
+[01-31 18:22:51.197] [info] [thread 6704] enter main
+[01-31 18:22:52.283] [info] [thread 6704] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-31 18:22:52.283] [info] [thread 6704] cha. Init language init bRet:true
+[01-31 18:22:52.283] [info] [thread 6704] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-31 18:22:52.283] [info] [thread 6704] cha. SetAppFlag success
+[01-31 18:22:52.283] [info] [thread 6704] cha. enter Startup
+[01-31 18:22:53.321] [info] [thread 6704] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-31 18:22:53.324] [info] [thread 6704] leave main bRet:true
+[01-31 19:19:39.802] [info] [thread 6856] enter main
+[01-31 19:19:40.323] [info] [thread 6856] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[01-31 19:19:40.323] [info] [thread 6856] cha. Init language init bRet:true
+[01-31 19:19:40.323] [info] [thread 6856] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[01-31 19:19:40.323] [info] [thread 6856] cha. SetAppFlag success
+[01-31 19:19:40.323] [info] [thread 6856] cha. enter Startup
+[01-31 19:19:41.355] [info] [thread 6856] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[01-31 19:19:41.356] [info] [thread 6856] leave main bRet:true
+[02-01 11:27:49.410] [info] [thread 10084] enter main
+[02-01 11:27:49.577] [info] [thread 10084] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-01 11:27:49.578] [info] [thread 10084] cha. Init language init bRet:true
+[02-01 11:27:49.578] [info] [thread 10084] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[02-01 11:27:49.578] [info] [thread 10084] cha. SetAppFlag success
+[02-01 11:27:49.578] [info] [thread 10084] cha. enter Startup
+[02-01 11:27:50.608] [info] [thread 10084] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-01 11:27:50.609] [info] [thread 10084] leave main bRet:true
+[02-01 16:27:06.014] [info] [thread 4888] enter main
+[02-01 16:27:06.111] [info] [thread 4888] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-01 16:27:06.112] [info] [thread 4888] cha. Init language init bRet:true
+[02-01 16:27:06.112] [info] [thread 4888] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[02-01 16:27:06.112] [info] [thread 4888] cha. SetAppFlag success
+[02-01 16:27:06.112] [info] [thread 4888] cha. enter Startup
+[02-01 16:27:07.158] [info] [thread 4888] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-01 16:27:07.158] [info] [thread 4888] leave main bRet:true
+[02-01 20:27:55.673] [info] [thread 9172] enter main
+[02-01 20:27:56.735] [info] [thread 9172] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-01 20:27:56.735] [info] [thread 9172] cha. Init language init bRet:true
+[02-01 20:27:56.735] [info] [thread 9172] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[02-01 20:27:56.735] [info] [thread 9172] cha. SetAppFlag success
+[02-01 20:27:56.735] [info] [thread 9172] cha. enter Startup
+[02-01 20:27:57.768] [info] [thread 9172] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-01 20:27:57.769] [info] [thread 9172] leave main bRet:true
+[02-02 20:09:56.009] [info] [thread 2032] enter main
+[02-02 20:09:56.561] [info] [thread 2032] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-02 20:09:56.562] [info] [thread 2032] cha. Init language init bRet:true
+[02-02 20:09:56.562] [info] [thread 2032] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[02-02 20:09:56.562] [info] [thread 2032] cha. SetAppFlag success
+[02-02 20:09:56.562] [info] [thread 2032] cha. enter Startup
+[02-02 20:09:57.599] [info] [thread 2032] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-02 20:09:57.600] [info] [thread 2032] leave main bRet:true
+[02-03 21:04:01.247] [info] [thread 1500] enter main
+[02-03 21:04:01.320] [info] [thread 1500] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-03 21:04:01.321] [info] [thread 1500] cha. Init language init bRet:true
+[02-03 21:04:01.321] [info] [thread 1500] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[02-03 21:04:01.321] [info] [thread 1500] cha. SetAppFlag success
+[02-03 21:04:01.321] [info] [thread 1500] cha. enter Startup
+[02-03 21:04:02.352] [info] [thread 1500] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-03 21:04:02.353] [info] [thread 1500] leave main bRet:true
+[02-04 20:13:23.511] [info] [thread 6128] enter main
+[02-04 20:13:23.616] [info] [thread 6128] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-04 20:13:23.616] [info] [thread 6128] cha. Init language init bRet:true
+[02-04 20:13:23.616] [info] [thread 6128] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[02-04 20:13:23.616] [info] [thread 6128] cha. SetAppFlag success
+[02-04 20:13:23.616] [info] [thread 6128] cha. enter Startup
+[02-04 20:13:24.638] [info] [thread 6128] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-04 20:13:24.639] [info] [thread 6128] leave main bRet:true
+[02-05 19:52:27.003] [info] [thread 8644] enter main
+[02-05 19:52:27.082] [info] [thread 8644] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-05 19:52:27.082] [info] [thread 8644] cha. Init language init bRet:true
+[02-05 19:52:27.082] [info] [thread 8644] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[02-05 19:52:27.082] [info] [thread 8644] cha. SetAppFlag success
+[02-05 19:52:27.082] [info] [thread 8644] cha. enter Startup
+[02-05 19:52:28.119] [info] [thread 8644] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-05 19:52:28.119] [info] [thread 8644] leave main bRet:true
+[02-06 19:13:07.575] [info] [thread 10856] enter main
+[02-06 19:13:07.664] [info] [thread 10856] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-06 19:13:07.664] [info] [thread 10856] cha. Init language init bRet:true
+[02-06 19:13:07.664] [info] [thread 10856] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[02-06 19:13:07.664] [info] [thread 10856] cha. SetAppFlag success
+[02-06 19:13:07.664] [info] [thread 10856] cha. enter Startup
+[02-06 19:13:08.703] [info] [thread 10856] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-06 19:13:08.703] [info] [thread 10856] leave main bRet:true
+[02-07 12:55:09.785] [info] [thread 452] enter main
+[02-07 12:55:09.865] [info] [thread 452] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-07 12:55:09.865] [info] [thread 452] cha. Init language init bRet:true
+[02-07 12:55:09.865] [info] [thread 452] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[02-07 12:55:09.865] [info] [thread 452] cha. SetAppFlag success
+[02-07 12:55:09.865] [info] [thread 452] cha. enter Startup
+[02-07 12:55:10.888] [info] [thread 452] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-07 12:55:10.889] [info] [thread 452] leave main bRet:true
+[02-07 20:53:32.821] [info] [thread 7096] enter main
+[02-07 20:53:33.041] [info] [thread 7096] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-07 20:53:33.042] [info] [thread 7096] cha. Init language init bRet:true
+[02-07 20:53:33.042] [info] [thread 7096] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[02-07 20:53:33.042] [info] [thread 7096] cha. SetAppFlag success
+[02-07 20:53:33.042] [info] [thread 7096] cha. enter Startup
+[02-07 20:53:34.081] [info] [thread 7096] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-07 20:53:34.083] [info] [thread 7096] leave main bRet:true
+[02-08 20:40:56.057] [info] [thread 9624] enter main
+[02-08 20:40:56.196] [info] [thread 9624] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-08 20:40:56.196] [info] [thread 9624] cha. Init language init bRet:true
+[02-08 20:40:56.196] [info] [thread 9624] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[02-08 20:40:56.196] [info] [thread 9624] cha. SetAppFlag success
+[02-08 20:40:56.196] [info] [thread 9624] cha. enter Startup
+[02-08 20:40:57.227] [info] [thread 9624] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-08 20:40:57.228] [info] [thread 9624] leave main bRet:true
+[02-09 20:15:32.987] [info] [thread 7156] enter main
+[02-09 20:15:33.058] [info] [thread 7156] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-09 20:15:33.058] [info] [thread 7156] cha. Init language init bRet:true
+[02-09 20:15:33.058] [info] [thread 7156] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[02-09 20:15:33.058] [info] [thread 7156] cha. SetAppFlag success
+[02-09 20:15:33.058] [info] [thread 7156] cha. enter Startup
+[02-09 20:15:34.091] [info] [thread 7156] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-09 20:15:34.092] [info] [thread 7156] leave main bRet:true
+[02-09 20:20:17.152] [info] [thread 10540] enter main
+[02-09 20:20:17.272] [info] [thread 10540] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.0.2, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-09 20:20:17.272] [info] [thread 10540] cha. Init language init bRet:true
+[02-09 20:20:17.272] [info] [thread 10540] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.0.2, strRegion:sg, strHgOrg:endfield, strEventLogAppId:hqn36nl4ecgino0z4y42bqb7
+[02-09 20:20:17.272] [info] [thread 10540] cha. SetAppFlag success
+[02-09 20:20:17.272] [info] [thread 10540] cha. enter Startup
+[02-09 20:20:18.296] [info] [thread 10540] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.0.2\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-09 20:20:18.296] [info] [thread 10540] leave main bRet:true
+[02-09 20:20:39.346] [info] [thread 4800] enter main
+[02-09 20:20:39.466] [info] [thread 4800] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--reason=1 --oldVer=1.0.2, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-09 20:20:39.466] [info] [thread 4800] cha. Init language init bRet:true
+[02-09 20:20:39.466] [info] [thread 4800] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[02-09 20:20:39.466] [info] [thread 4800] cha. SetAppFlag success
+[02-09 20:20:39.466] [info] [thread 4800] cha. enter Startup
+[02-09 20:20:40.506] [info] [thread 4800] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --reason=1 --oldVer=1.0.2, hRet:42, bRet:true, bFileExist:true
+[02-09 20:20:40.506] [info] [thread 4800] leave main bRet:true
+[02-10 20:20:30.974] [info] [thread 4236] enter main
+[02-10 20:20:31.589] [info] [thread 4236] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-10 20:20:31.589] [info] [thread 4236] cha. Init language init bRet:true
+[02-10 20:20:31.589] [info] [thread 4236] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[02-10 20:20:31.590] [info] [thread 4236] cha. SetAppFlag success
+[02-10 20:20:31.590] [info] [thread 4236] cha. enter Startup
+[02-10 20:20:32.639] [info] [thread 4236] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-10 20:20:32.639] [info] [thread 4236] leave main bRet:true
+[02-17 16:15:51.582] [info] [thread 2188] enter main
+[02-17 16:15:52.966] [info] [thread 2188] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-17 16:15:52.966] [info] [thread 2188] cha. Init language init bRet:true
+[02-17 16:15:52.966] [info] [thread 2188] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[02-17 16:15:52.966] [info] [thread 2188] cha. SetAppFlag success
+[02-17 16:15:52.966] [info] [thread 2188] cha. enter Startup
+[02-17 16:15:54.000] [info] [thread 2188] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-17 16:15:54.013] [info] [thread 2188] leave main bRet:true
+[02-22 20:56:30.381] [info] [thread 10592] enter main
+[02-22 20:56:30.992] [info] [thread 10592] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-22 20:56:30.992] [info] [thread 10592] cha. Init language init bRet:true
+[02-22 20:56:30.992] [info] [thread 10592] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[02-22 20:56:30.992] [info] [thread 10592] cha. SetAppFlag success
+[02-22 20:56:30.992] [info] [thread 10592] cha. enter Startup
+[02-22 20:56:32.027] [info] [thread 10592] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-22 20:56:32.027] [info] [thread 10592] leave main bRet:true
+[02-25 20:59:35.927] [info] [thread 2944] enter main
+[02-25 20:59:36.596] [info] [thread 2944] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-25 20:59:36.596] [info] [thread 2944] cha. Init language init bRet:true
+[02-25 20:59:36.596] [info] [thread 2944] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[02-25 20:59:36.596] [info] [thread 2944] cha. SetAppFlag success
+[02-25 20:59:36.596] [info] [thread 2944] cha. enter Startup
+[02-25 20:59:37.647] [info] [thread 2944] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-25 20:59:37.648] [info] [thread 2944] leave main bRet:true
+[02-25 21:06:56.484] [info] [thread 8240] enter main
+[02-25 21:06:57.071] [info] [thread 8240] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-25 21:06:57.071] [info] [thread 8240] cha. Init language init bRet:true
+[02-25 21:06:57.071] [info] [thread 8240] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[02-25 21:06:57.071] [info] [thread 8240] cha. SetAppFlag success
+[02-25 21:06:57.071] [info] [thread 8240] cha. enter Startup
+[02-25 21:06:58.094] [info] [thread 8240] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-25 21:06:58.095] [info] [thread 8240] leave main bRet:true
+[02-26 13:43:16.824] [info] [thread 808] enter main
+[02-26 13:43:17.422] [info] [thread 808] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-26 13:43:17.422] [info] [thread 808] cha. Init language init bRet:true
+[02-26 13:43:17.422] [info] [thread 808] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[02-26 13:43:17.422] [info] [thread 808] cha. SetAppFlag success
+[02-26 13:43:17.422] [info] [thread 808] cha. enter Startup
+[02-26 13:43:18.474] [info] [thread 808] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-26 13:43:18.475] [info] [thread 808] leave main bRet:true
+[02-26 21:21:52.793] [info] [thread 4896] enter main
+[02-26 21:21:52.907] [info] [thread 4896] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-26 21:21:52.907] [info] [thread 4896] cha. Init language init bRet:true
+[02-26 21:21:52.907] [info] [thread 4896] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[02-26 21:21:52.907] [info] [thread 4896] cha. SetAppFlag success
+[02-26 21:21:52.907] [info] [thread 4896] cha. enter Startup
+[02-26 21:21:53.935] [info] [thread 4896] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-26 21:21:53.936] [info] [thread 4896] leave main bRet:true
+[02-27 19:42:24.940] [info] [thread 10684] enter main
+[02-27 19:42:25.486] [info] [thread 10684] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[02-27 19:42:25.486] [info] [thread 10684] cha. Init language init bRet:true
+[02-27 19:42:25.486] [info] [thread 10684] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[02-27 19:42:25.486] [info] [thread 10684] cha. SetAppFlag success
+[02-27 19:42:25.486] [info] [thread 10684] cha. enter Startup
+[02-27 19:42:26.527] [info] [thread 10684] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[02-27 19:42:26.528] [info] [thread 10684] leave main bRet:true
+[03-01 21:24:40.370] [info] [thread 1820] enter main
+[03-01 21:24:40.922] [info] [thread 1820] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[03-01 21:24:40.923] [info] [thread 1820] cha. Init language init bRet:true
+[03-01 21:24:40.923] [info] [thread 1820] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[03-01 21:24:40.923] [info] [thread 1820] cha. SetAppFlag success
+[03-01 21:24:40.923] [info] [thread 1820] cha. enter Startup
+[03-01 21:24:41.956] [info] [thread 1820] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[03-01 21:24:41.956] [info] [thread 1820] leave main bRet:true
+[03-02 20:06:00.939] [info] [thread 10080] enter main
+[03-02 20:06:01.496] [info] [thread 10080] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[03-02 20:06:01.496] [info] [thread 10080] cha. Init language init bRet:true
+[03-02 20:06:01.496] [info] [thread 10080] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[03-02 20:06:01.496] [info] [thread 10080] cha. SetAppFlag success
+[03-02 20:06:01.496] [info] [thread 10080] cha. enter Startup
+[03-02 20:06:02.529] [info] [thread 10080] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[03-02 20:06:02.529] [info] [thread 10080] leave main bRet:true
+[03-03 20:47:05.837] [info] [thread 2696] enter main
+[03-03 20:47:06.131] [info] [thread 2696] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[03-03 20:47:06.131] [info] [thread 2696] cha. Init language init bRet:true
+[03-03 20:47:06.131] [info] [thread 2696] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[03-03 20:47:06.131] [info] [thread 2696] cha. SetAppFlag success
+[03-03 20:47:06.131] [info] [thread 2696] cha. enter Startup
+[03-03 20:47:07.201] [info] [thread 2696] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[03-03 20:47:07.203] [info] [thread 2696] leave main bRet:true
+[03-07 23:43:48.274] [info] [thread 3660] enter main
+[03-07 23:43:48.433] [info] [thread 3660] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[03-07 23:43:48.433] [info] [thread 3660] cha. Init language init bRet:true
+[03-07 23:43:48.433] [info] [thread 3660] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[03-07 23:43:48.433] [info] [thread 3660] cha. SetAppFlag success
+[03-07 23:43:48.433] [info] [thread 3660] cha. enter Startup
+[03-07 23:43:49.471] [info] [thread 3660] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[03-07 23:43:49.472] [info] [thread 3660] leave main bRet:true
+[03-07 23:50:05.033] [info] [thread 9528] enter main
+[03-07 23:50:05.669] [info] [thread 9528] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[03-07 23:50:05.670] [info] [thread 9528] cha. Init language init bRet:true
+[03-07 23:50:05.670] [info] [thread 9528] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[03-07 23:50:05.670] [info] [thread 9528] cha. SetAppFlag success
+[03-07 23:50:05.670] [info] [thread 9528] cha. enter Startup
+[03-07 23:50:06.811] [info] [thread 9528] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[03-07 23:50:06.813] [info] [thread 9528] leave main bRet:true
+[03-07 23:54:20.616] [info] [thread 12220] enter main
+[03-07 23:54:21.260] [info] [thread 12220] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[03-07 23:54:21.261] [info] [thread 12220] cha. Init language init bRet:true
+[03-07 23:54:21.261] [info] [thread 12220] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[03-07 23:54:21.261] [info] [thread 12220] cha. SetAppFlag success
+[03-07 23:54:21.261] [info] [thread 12220] cha. enter Startup
+[03-07 23:54:22.327] [info] [thread 12220] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[03-07 23:54:22.331] [info] [thread 12220] leave main bRet:true
+[03-07 23:58:28.766] [info] [thread 6568] enter main
+[03-07 23:58:29.323] [info] [thread 6568] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[03-07 23:58:29.323] [info] [thread 6568] cha. Init language init bRet:true
+[03-07 23:58:29.323] [info] [thread 6568] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[03-07 23:58:29.323] [info] [thread 6568] cha. SetAppFlag success
+[03-07 23:58:29.323] [info] [thread 6568] cha. enter Startup
+[03-07 23:58:30.359] [info] [thread 6568] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[03-07 23:58:30.359] [info] [thread 6568] leave main bRet:true
+[03-08 00:13:11.585] [info] [thread 10252] enter main
+[03-08 00:13:11.892] [info] [thread 10252] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[03-08 00:13:11.893] [info] [thread 10252] cha. Init language init bRet:true
+[03-08 00:13:11.893] [info] [thread 10252] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[03-08 00:13:11.893] [info] [thread 10252] cha. SetAppFlag success
+[03-08 00:13:11.893] [info] [thread 10252] cha. enter Startup
+[03-08 00:13:12.935] [info] [thread 10252] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[03-08 00:13:12.937] [info] [thread 10252] leave main bRet:true
+[03-08 00:20:21.116] [info] [thread 10992] enter main
+[03-08 00:20:22.111] [info] [thread 10992] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[03-08 00:20:22.111] [info] [thread 10992] cha. Init language init bRet:true
+[03-08 00:20:22.111] [info] [thread 10992] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[03-08 00:20:22.111] [info] [thread 10992] cha. SetAppFlag success
+[03-08 00:20:22.111] [info] [thread 10992] cha. enter Startup
+[03-08 00:20:23.147] [info] [thread 10992] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[03-08 00:20:23.149] [info] [thread 10992] leave main bRet:true
+[03-08 00:30:12.896] [info] [thread 6524] enter main
+[03-08 00:30:13.943] [info] [thread 6524] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[03-08 00:30:13.943] [info] [thread 6524] cha. Init language init bRet:true
+[03-08 00:30:13.943] [info] [thread 6524] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[03-08 00:30:13.943] [info] [thread 6524] cha. SetAppFlag success
+[03-08 00:30:13.943] [info] [thread 6524] cha. enter Startup
+[03-08 00:30:15.024] [info] [thread 6524] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[03-08 00:30:15.027] [info] [thread 6524] leave main bRet:true
+[03-08 00:54:25.631] [info] [thread 9288] enter main
+[03-08 00:54:26.652] [info] [thread 9288] cca. config: app_code: TiaytKBUIEdoEwRT, channel:6, sub_channel:6, region:sg, ver:1.1.0, company_name:Gryphline, main_exe_name:Games.exe, ver_type:1, cmd_line:--game=EndField --reason=4, HgUUID:d9f71f86325c5b9733268efda40413c8
+[03-08 00:54:26.652] [info] [thread 9288] cha. Init language init bRet:true
+[03-08 00:54:26.652] [info] [thread 9288] cha. Init strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strSubChannel:6, strVersion:1.1.0, strRegion:sg, strHgOrg:endfield, strEventLogAppId:lx9kbyao15vcjncl0ra8n7qz
+[03-08 00:54:26.652] [info] [thread 9288] cha. SetAppFlag success
+[03-08 00:54:26.652] [info] [thread 9288] cha. enter Startup
+[03-08 00:54:27.688] [info] [thread 9288] cha. leave Startup strHgExeFullName:D:\GRYPHLINK\1.1.0\Games.exe, strCmd: --reason=0 --game=EndField --reason=4, hRet:42, bRet:true, bFileExist:true
+[03-08 00:54:27.689] [info] [thread 9288] leave main bRet:true
