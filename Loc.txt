@@ -1,0 +1,658 @@
+[03-08 00:54:26.707] [info] [thread 8404] enter main
+[03-08 00:54:26.708] [info] [thread 8404] main is dev mode:false
+[03-08 00:54:26.708] [info] [thread 8404] csc PrintConfig m_AppCode:TiaytKBUIEdoEwRT, m_Channel:6, m_SubChannel:6, m_Region:sg,  m_CompanyName:Gryphline, m_Ver:1.1.0, m_VerDetail:1.1.0.1107, m_VerType:1, m_EventLogAppId:rtifcyfas9gpv0r6krno70dx, m_UUID:d9f71f86325c5b9733268efda40413c8, m_UUID_Strong:94005b4608518100ed8df1d8107356a8, m_strDeviceId:F11A3D55-A037-448E-9A16-A922AFD1372D, config_AppCode:6, config_HgOrg:endfield
+[03-08 00:54:26.708] [info] [thread 8404] csc PrintConfig item:strProjectName: endfield, strGame: EndField, strAppCode: YDUTE5gscDZ229CW, strChannel: 6, strSubChannel: 6, strRegion: sg, strIcon: endfield, strTheme: endfield, strGameUUID: cd2d0f009b9c3997c1e4d319ed1a0eae, strShopUrl: , strEventLogAppId: hqn36nl4ecgino0z4y42bqb7
+[03-08 00:54:26.708] [info] [thread 8404] csc PrintConfig item:strProjectName: popucom, strGame: POPUCOM, strAppCode: FtQqkyFLX4Z0bg8G, strChannel: 6, strSubChannel: 6, strRegion: sg, strIcon: popucom, strTheme: popucom, strGameUUID: 00bfde3364b029e4e543dd8cd4e87f71, strShopUrl: https://user.hypergryph.com/game/popucom, strEventLogAppId: lx9kbyao15vcjncl0ra8n7qz
+[03-08 00:54:26.708] [info] [thread 8404] cec PrintConfig prd name:, prd ver:
+[03-08 00:54:26.708] [info] [thread 8404] caac PrintConfig m_Tracking:GRYPHLINK_1.0.2_6_6_endfield, m_Ta:EndField, m_Ua:
+[03-08 00:54:26.710] [error] [thread 8404] cwul _Decode_Base64 bRet:true
+[03-08 00:54:26.913] [info] [thread 8404] cha enter Init
+[03-08 00:54:26.913] [info] [thread 8404] cham enter Init
+[03-08 00:54:26.914] [info] [thread 8404] cum Init libConfig init ret:true
+[03-08 00:54:26.914] [info] [thread 8404] cum Init libAppUpdateAssist init ret:true
+[03-08 00:54:26.914] [info] [thread 8404] clau ReadWebVersion, strVersionFile:D:\GRYPHLINK\1.1.0\res\web\version.json, bRet:true, strVersion:0.2.8, strEnv:prod, strRegion:sg, strData:{
+  "version": "0.2.8",
+  "files": [
+    "124.8bace7.js",
+    "15.f086d1.js",
+    "159.e546aa.js",
+    "193.0d8719.js",
+    "202.8f26dc.js",
+    "227.295be8.js",
+    "231.b71f57.js",
+    "304.7a4850.js",
+    "398.b1ad06.js",
+    "49.5a1cb1.js",
+    "538.fdd438.js",
+    "614.aea6cd.js",
+    "627.f2d790.js",
+    "628.dd8884.js",
+    "70.4c04eb.js",
+    "714.e9fd3f.js",
+    "782.a980b4.js",
+    "792.53a314.js",
+    "818.034355.js",
+    "852.d4e5e9.js",
+    "853.73d52c.js",
+    "86.192e79.js",
+    "952.cfc7df.js",
+    "97.a1453c.js",
+    "999.ab9180.js",
+    "index.28d4a5.css",
+    "index.ddcc59.js",
+    "index.html"
+  ],
+  "env": "prod",
+  "region": "sg"
+}
+[03-08 00:54:26.914] [error] [thread 8404] clau ReadWebVersion failed, open file failed, strVersionFile:D:\GRYPHLINK\1.1.0\res\web.tmp\version.json
+[03-08 00:54:26.914] [info] [thread 8404] cwvm _TryUpdateWeb failed, read web version failed
+[03-08 00:54:26.914] [info] [thread 8404] cwvm _TryUpdateWeb, bRet:false, bDeleteWebTemp:true, m_strWebVersion:0.2.8, strNewVersion:, m_strWebTempPath:D:\GRYPHLINK\1.1.0\res\web.tmp, m_strWebPath:D:\GRYPHLINK\1.1.0\res\web
+[03-08 00:54:26.914] [info] [thread 8404] cwvm Init bNeedUpdateWeb:false, _TryUpdateWeb bRet:false
+[03-08 00:54:26.914] [info] [thread 8404] cum Init libAppAssist init ret:true
+[03-08 00:54:26.914] [info] [thread 8404] clgai enter _InitDownloadedGameList
+[03-08 00:54:26.914] [info] [thread 8404] clgai enter _UpdateDownloadedGameList, bFirstInit:true
+[03-08 00:54:26.914] [info] [thread 8404] clgu enter CheckGameFilesState strPath:D:\GRYPHLINK\games\POPUCOM Game, strConfigGameUUID:00bfde3364b029e4e543dd8cd4e87f71
+[03-08 00:54:26.914] [error] [thread 8404] clgu leave CheckGameFilesState valid failed 1
+[03-08 00:54:26.914] [info] [thread 8404] clgai leave _UpdateDownloadedGameList, m_strUUIdForFirstShow:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:26.914] [info] [thread 8404] clgai leave _InitDownloadedGameList
+[03-08 00:54:26.914] [info] [thread 8404] cum Init libGameAssist init ret:true
+[03-08 00:54:26.914] [info] [thread 8404] cela Init strAppId:rtifcyfas9gpv0r6krno70dx, bRet:true
+[03-08 00:54:26.914] [info] [thread 8404] celm Init launcher event log assist bRet:true
+[03-08 00:54:26.914] [info] [thread 8404] cela Init strAppId:hqn36nl4ecgino0z4y42bqb7, bRet:true
+[03-08 00:54:26.914] [info] [thread 8404] cela Init strAppId:lx9kbyao15vcjncl0ra8n7qz, bRet:true
+[03-08 00:54:26.914] [info] [thread 8404] clgaib _GetGameAssit create pGameAssistBase, strGameUUId:hqn36nl4ecgino0z4y42bqb7sg
+[03-08 00:54:26.915] [info] [thread 8404] cgab game version mgr init, m_strUUID:hqn36nl4ecgino0z4y42bqb7sg, bInitGameVersion:false, bRet:true
+[03-08 00:54:26.917] [info] [thread 8404] clgaib _GetGameAssit create pGameAssistBase, strGameUUId:lx9kbyao15vcjncl0ra8n7qzsg
+[03-08 00:54:26.917] [info] [thread 8404] cgab game version mgr init, m_strUUID:lx9kbyao15vcjncl0ra8n7qzsg, bInitGameVersion:false, bRet:true
+[03-08 00:54:26.919] [info] [thread 8404] clgaib _GetGameAssit create pGameAssistBase, strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:26.920] [info] [thread 8404] cgab game version mgr init, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bInitGameVersion:false, bRet:true
+[03-08 00:54:26.921] [info] [thread 8404] clgaib _GetGameAssit create pGameAssistBase, strGameUUId:00bfde3364b029e4e543dd8cd4e87f71
+[03-08 00:54:26.922] [info] [thread 8404] cgab game version mgr init, m_strUUID:00bfde3364b029e4e543dd8cd4e87f71, bInitGameVersion:false, bRet:true
+[03-08 00:54:26.923] [info] [thread 8404] cum Init event log mgr init ret:true
+[03-08 00:54:26.923] [info] [thread 8404] cum Init gameMgr init ret:true
+[03-08 00:54:26.923] [info] [thread 8404] cwdmb Init
+[03-08 00:54:26.923] [info] [thread 8404] cum Init webDataMgr init ret:true
+[03-08 00:54:26.923] [info] [thread 8404] cum Init epicSDKAssist init ret:true
+[03-08 00:54:26.923] [info] [thread 8404] cicm enter StartMonitor
+[03-08 00:54:26.923] [info] [thread 8404] cicm leave StartMonitor bRet:true
+[03-08 00:54:26.923] [info] [thread 8404] cum Init internetConnectMonitor init bStartRet:true
+[03-08 00:54:26.923] [info] [thread 8404] chum enter _ClearCheckGameCompleteTempData
+[03-08 00:54:26.924] [info] [thread 8404] chum leave _ClearCheckGameCompleteTempData
+[03-08 00:54:26.924] [info] [thread 8404] cgd Init, start thread bRet:true
+[03-08 00:54:26.924] [info] [thread 8328] chum enter _DoClear_Normal
+[03-08 00:54:26.924] [info] [thread 1536] chmgh enter run
+[03-08 00:54:26.924] [info] [thread 6460] cha enter run
+[03-08 00:54:26.926] [info] [thread 8328] chum enter _ClearDownloaderDefDownloadPath
+[03-08 00:54:26.932] [info] [thread 8404] cham leave Init
+[03-08 00:54:26.932] [info] [thread 8404] cha app mgr init bRet:true
+[03-08 00:54:26.932] [info] [thread 8404] cha enter _GetWebGlobalSettings_SEH
+[03-08 00:54:27.114] [info] [thread 8404] cha leave _GetWebGlobalSettings_SEH bRet:true
+[03-08 00:54:27.114] [info] [thread 8404] cha enter _GetWebGlobalSettings_SEH
+[03-08 00:54:27.114] [info] [thread 8404] cha leave _GetWebGlobalSettings_SEH bRet:true
+[03-08 00:54:27.119] [info] [thread 8404] cwgp _TryFirstShowGame, m_bRecvDownloadedGameListChanged:false, m_bInited:false, m_bFirstSwitchWnd:true
+[03-08 00:54:27.119] [info] [thread 8404] cwgp enter _SwitchGame m_strCurUUID:, strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:27.120] [info] [thread 8404] clgai SetUUIdForFirstShow strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:27.120] [info] [thread 8404] cgv UpdateGameVersionInfo
+[03-08 00:54:27.130] [info] [thread 8404] cwgp leave _SwitchGame
+[03-08 00:54:27.146] [info] [thread 8404] cwdmb OnMainWndCreated
+[03-08 00:54:27.146] [info] [thread 8404] cwdmb OnWebViewPreCreated
+[03-08 00:54:27.146] [info] [thread 8404] cha leave Init bRet:true
+[03-08 00:54:27.146] [info] [thread 8404] app init bRet:true
+[03-08 00:54:27.165] [info] [thread 8404] cgvm OnGameInstallPathChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.165] [info] [thread 8404] cgv OnGameInstallPathChanged m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.165] [info] [thread 8404] clgu enter CheckGameFilesState strPath:D:\GRYPHLINK\games\EndField Game, strConfigGameUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:27.165] [info] [thread 8404] clgu enter ReadGameConfig strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.166] [info] [thread 8404] clgu leave ReadGameConfig bParseUninstallInfo:false, strGameVer:1.0.14, strEntry:Endfield.exe, strEntryMd5:2555b8133f6cb3a408c29a3cbe804bb4, strAppCode:YDUTE5gscDZ229CW, strChannel:6, strSubChannel:6, strRegion:sg, strGameUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strUninstallPath:, strUninstallParams:
+[03-08 00:54:27.166] [info] [thread 8404] clgu CheckGameUUID strGameUUID1:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameUUID2:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true
+[03-08 00:54:27.166] [info] [thread 8404] clgu CheckGameEntry strGameEntry:D:\GRYPHLINK\games\EndField Game\Endfield.exe, bEntryFileValid:true
+[03-08 00:54:27.166] [info] [thread 8404] clgu leave CheckGameFilesState bGameConfigFileValid:true, bEntryFileValid:true, eGameFileState:1
+[03-08 00:54:27.166] [info] [thread 8404] clgu enter ReadGameConfig strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.166] [info] [thread 8404] clgu leave ReadGameConfig bParseUninstallInfo:false, strGameVer:1.0.14, strEntry:Endfield.exe, strEntryMd5:2555b8133f6cb3a408c29a3cbe804bb4, strAppCode:YDUTE5gscDZ229CW, strChannel:6, strSubChannel:6, strRegion:sg, strGameUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strUninstallPath:, strUninstallParams:
+[03-08 00:54:27.166] [info] [thread 8404] cgv OnGameConfigLoadFinished m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true
+[03-08 00:54:27.166] [info] [thread 8404] ccl enter IsSsd strPath:D:
+[03-08 00:54:27.167] [info] [thread 8404] ccl leave IsSsd bRet:true
+[03-08 00:54:27.167] [info] [thread 8404] cga OnGameInstallPathChanged, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.167] [info] [thread 8404] clgai OnGameInstallPathChanged, strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.167] [info] [thread 8404] clgai _DeleteAutoDownloadGame, strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:false
+[03-08 00:54:27.167] [info] [thread 8404] clgai enter _UpdateDownloadedGameList, bFirstInit:false
+[03-08 00:54:27.167] [info] [thread 8404] clgu enter CheckGameFilesState strPath:D:\GRYPHLINK\games\POPUCOM Game, strConfigGameUUID:00bfde3364b029e4e543dd8cd4e87f71
+[03-08 00:54:27.167] [error] [thread 8404] clgu leave CheckGameFilesState valid failed 1
+[03-08 00:54:27.167] [info] [thread 8404] clgai leave _UpdateDownloadedGameList, m_strUUIdForFirstShow:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:27.167] [info] [thread 8404] cgvm OnGameInstallPathChanged strGameUUId:00bfde3364b029e4e543dd8cd4e87f71, strGameInstallPath:D:\GRYPHLINK\games\POPUCOM Game
+[03-08 00:54:27.167] [info] [thread 8404] cgv OnGameInstallPathChanged m_strUUID:00bfde3364b029e4e543dd8cd4e87f71, strGameInstallPath:D:\GRYPHLINK\games\POPUCOM Game
+[03-08 00:54:27.167] [info] [thread 8404] clgu enter CheckGameFilesState strPath:D:\GRYPHLINK\games\POPUCOM Game, strConfigGameUUID:00bfde3364b029e4e543dd8cd4e87f71
+[03-08 00:54:27.167] [error] [thread 8404] clgu leave CheckGameFilesState valid failed 1
+[03-08 00:54:27.167] [info] [thread 8404] cga OnGameInstallPathChanged, m_strUUID:00bfde3364b029e4e543dd8cd4e87f71, strGameInstallPath:D:\GRYPHLINK\games\POPUCOM Game
+[03-08 00:54:27.167] [info] [thread 8404] clgai OnGameInstallPathChanged, strGameUUId:00bfde3364b029e4e543dd8cd4e87f71, strGameInstallPath:D:\GRYPHLINK\games\POPUCOM Game
+[03-08 00:54:27.167] [info] [thread 8404] clgai _DeleteAutoDownloadGame, strGameUUId:00bfde3364b029e4e543dd8cd4e87f71, bRet:false
+[03-08 00:54:27.167] [info] [thread 8404] cha enter _GetWebGlobalSettings_SEH
+[03-08 00:54:27.167] [info] [thread 8404] cha leave _GetWebGlobalSettings_SEH bRet:true
+[03-08 00:54:27.167] [info] [thread 8404] cwdmb OnCurrentLanguageChanged strLanguage:ru-ru
+[03-08 00:54:27.169] [info] [thread 8404] cvwg _EnableMainBtn m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, m_bMainBtnDisabled:true, strReason:m_bQureyLastestDownloadOrDecompressIsBrokenFinished: false, bForceDisable: false
+[03-08 00:54:27.169] [info] [thread 8404] cwdmb OnMainBtnStateInfoChanged info:strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, eMainBtnType:1, strState:start_game, bGameServiceStopped:0, bNeedLogin:0, bNeedPurchase:0, bQueryLatestGameResult:1, bPreparingStartGame:0
+[03-08 00:54:27.169] [info] [thread 8404] cgm OnShowableGameListChanged
+[03-08 00:54:27.169] [info] [thread 8404] cul CreateMutilDirIfNeed strPath:C:\Users\Epicmine\AppData\Roaming\Gryphline\d9f71f86325c5b9733268efda40413c8\icon, bRet:true, bExist:true, nCount:0
+[03-08 00:54:27.173] [info] [thread 8404] cgmb OnShowableGameListChanged
+[03-08 00:54:27.173] [info] [thread 8404] cwdm OnShowableGameListChanged, m_bRecvAllGameListReq:false
+[03-08 00:54:27.173] [info] [thread 8404] cgm OnDownloadedGameListChanged
+[03-08 00:54:27.173] [info] [thread 8404] cgmb OnDownloadedGameListChanged
+[03-08 00:54:27.173] [info] [thread 8404] cwgp OnDownloadedGameListChanged
+[03-08 00:54:27.173] [info] [thread 8404] cwgp _TryFirstShowGame, m_bRecvDownloadedGameListChanged:true, m_bInited:false, m_bFirstSwitchWnd:false
+[03-08 00:54:27.180] [info] [thread 8404] cwgp OnInitWnd
+[03-08 00:54:27.180] [info] [thread 8404] claac enter QueryWebZipInfo
+[03-08 00:54:27.180] [info] [thread 8404] clhc enter SendWebZipInfoReq, strDeviceId:F11A3D55-A037-448E-9A16-A922AFD1372D
+[03-08 00:54:27.180] [info] [thread 8404] chcb enter SendClientReq eHttpClientReqType:5
+[03-08 00:54:27.180] [info] [thread 8404] chcb enter _DoClientReq eHttpClientReqType:5
+[03-08 00:54:27.180] [info] [thread 8404] chcb leave _DoClientReq bRet:true
+[03-08 00:54:27.180] [info] [thread 8404] chcb leave SendClientReq bRet:true
+[03-08 00:54:27.180] [info] [thread 8404] clhc leave SendWebZipInfoReq bRet:true
+[03-08 00:54:27.180] [info] [thread 8404] claac leave QueryWebZipInfo bRet:true
+[03-08 00:54:27.180] [info] [thread 8404] chcb enter SendClientReq eHttpClientReqType:14
+[03-08 00:54:27.180] [info] [thread 8404] chcb enter _DoClientReq eHttpClientReqType:14
+[03-08 00:54:27.180] [info] [thread 8404] chcb leave _DoClientReq bRet:true
+[03-08 00:54:27.180] [info] [thread 8404] chcb leave SendClientReq bRet:true
+[03-08 00:54:27.180] [info] [thread 8404] login http client enter user_info_v1_basic bRet:true
+[03-08 00:54:27.180] [info] [thread 8404] cgvm OnGameInstallPathChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.180] [info] [thread 8404] cgv OnGameInstallPathChanged m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.180] [info] [thread 8404] clgu enter CheckGameFilesState strPath:D:\GRYPHLINK\games\EndField Game, strConfigGameUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:27.180] [info] [thread 8404] clgu enter ReadGameConfig strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.181] [info] [thread 8404] clgu leave ReadGameConfig bParseUninstallInfo:false, strGameVer:1.0.14, strEntry:Endfield.exe, strEntryMd5:2555b8133f6cb3a408c29a3cbe804bb4, strAppCode:YDUTE5gscDZ229CW, strChannel:6, strSubChannel:6, strRegion:sg, strGameUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strUninstallPath:, strUninstallParams:
+[03-08 00:54:27.181] [info] [thread 8404] clgu CheckGameUUID strGameUUID1:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameUUID2:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true
+[03-08 00:54:27.181] [info] [thread 8404] clgu CheckGameEntry strGameEntry:D:\GRYPHLINK\games\EndField Game\Endfield.exe, bEntryFileValid:true
+[03-08 00:54:27.181] [info] [thread 8404] clgu leave CheckGameFilesState bGameConfigFileValid:true, bEntryFileValid:true, eGameFileState:1
+[03-08 00:54:27.181] [info] [thread 8404] clgu enter ReadGameConfig strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.182] [info] [thread 8404] clgu leave ReadGameConfig bParseUninstallInfo:false, strGameVer:1.0.14, strEntry:Endfield.exe, strEntryMd5:2555b8133f6cb3a408c29a3cbe804bb4, strAppCode:YDUTE5gscDZ229CW, strChannel:6, strSubChannel:6, strRegion:sg, strGameUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strUninstallPath:, strUninstallParams:
+[03-08 00:54:27.182] [info] [thread 8404] cgv OnGameConfigLoadFinished m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true
+[03-08 00:54:27.182] [info] [thread 8404] cga OnGameInstallPathChanged, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.182] [info] [thread 8404] clgai OnGameInstallPathChanged, strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.182] [info] [thread 8404] clgai _DeleteAutoDownloadGame, strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:false
+[03-08 00:54:27.182] [info] [thread 8404] clgai enter _UpdateDownloadedGameList, bFirstInit:false
+[03-08 00:54:27.182] [info] [thread 8404] clgu enter CheckGameFilesState strPath:D:\GRYPHLINK\games\POPUCOM Game, strConfigGameUUID:00bfde3364b029e4e543dd8cd4e87f71
+[03-08 00:54:27.182] [error] [thread 8404] clgu leave CheckGameFilesState valid failed 1
+[03-08 00:54:27.182] [info] [thread 8404] clgai leave _UpdateDownloadedGameList, m_strUUIdForFirstShow:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:27.183] [info] [thread 8404] cgmb OnGameVerChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameVer:1.0.14
+[03-08 00:54:27.183] [info] [thread 8404] cgmb OnEntryChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strEntry:Endfield.exe
+[03-08 00:54:27.183] [info] [thread 8404] cgmb OnGameFilesStateChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, eOldState:0, eNewState:1
+[03-08 00:54:27.183] [info] [thread 8404] cg OnGameFilesStateChanged, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, eOldState:0, eNewState:1
+[03-08 00:54:27.183] [info] [thread 8404] cvwg OnGameFilesStateChanged m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, eOldState:0, eNewState:1
+[03-08 00:54:27.183] [info] [thread 8404] cvwgb OnGameFilesStateChanged m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, eOldState:0, eNewState:1
+[03-08 00:54:27.183] [info] [thread 8404] cgmb OnGameBookedInfoChanged
+[03-08 00:54:27.183] [info] [thread 8404] cvwg OnGameBookedInfoChanged m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:27.183] [info] [thread 8404] cwdmb OnGameBookedInfoChanged
+[03-08 00:54:27.183] [info] [thread 8404] cgm OnDownloadedGameListChanged
+[03-08 00:54:27.183] [info] [thread 8404] cgmb OnDownloadedGameListChanged
+[03-08 00:54:27.183] [info] [thread 8404] cwgp OnDownloadedGameListChanged
+[03-08 00:54:27.183] [info] [thread 8404] cwgp _TryFirstShowGame, m_bRecvDownloadedGameListChanged:true, m_bInited:true, m_bFirstSwitchWnd:false
+[03-08 00:54:27.183] [info] [thread 8404] cgmb OnGameInstallPathChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.183] [info] [thread 8404] cg OnGameInstallPathChanged, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.183] [info] [thread 8404] cvwg OnGameInstallPathChanged m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.183] [info] [thread 8404] ccl enter IsSsd strPath:D:
+[03-08 00:54:27.183] [info] [thread 8404] ccl leave IsSsd bRet:true
+[03-08 00:54:27.183] [info] [thread 8404] cwdmb OnMainBtnStateInfoChanged info:strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, eMainBtnType:1, strState:start_game, bGameServiceStopped:0, bNeedLogin:0, bNeedPurchase:0, bQueryLatestGameResult:1, bPreparingStartGame:0
+[03-08 00:54:27.183] [info] [thread 8404] cgv enter Query_ProtocolVer_LauncherVer_GameVer m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:27.183] [info] [thread 8404] clhc enter Post_ProtocolVer_LauncherVer_GameVer_Req strProtocolVersion:0, strLauncherVersion:1.1.0, strLanguage:ru-ru, strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strGameVersion:1.0.14, strGameAppCode:YDUTE5gscDZ229CW, strGameChannel:6, strGameSubChannel:6, strSeq:5, bContainProtocolVersion:true, bContainGameVersion:true strDeviceId:F11A3D55-A037-448E-9A16-A922AFD1372D, strTargetApp:EndField, bContainLauncherVersion:true
+[03-08 00:54:27.183] [info] [thread 8404] chcb enter PostClientReq eHttpClientReqType:6
+[03-08 00:54:27.183] [info] [thread 8404] chcb enter _DoClientReq eHttpClientReqType:6
+[03-08 00:54:27.184] [info] [thread 8404] chcb leave _DoClientReq bRet:true
+[03-08 00:54:27.184] [info] [thread 8404] chcb leave SendClientReq bRet:true
+[03-08 00:54:27.184] [info] [thread 8404] clhc leave Post_ProtocolVer_LauncherVer_GameVer_Req bRet:true
+[03-08 00:54:27.184] [info] [thread 8404] cgv leave Query_ProtocolVer_LauncherVer_GameVer m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, strProtocolVer:0, strLauncherVer:1.1.0, strLanguage:ru-ru, strMainAppCode:TiaytKBUIEdoEwRT, strMainChannel:6, strGameVer:1.0.14, strGameAppCode:YDUTE5gscDZ229CW, strSeq:5, bContainProtocolVersion:true, bNeedContainGameVersion:true, strDeviceId:F11A3D55-A037-448E-9A16-A922AFD1372D, strTargetApp:EndField, bContainGameVersion:true, bContainLauncherVersion:true
+[03-08 00:54:27.184] [info] [thread 8404] cgdm OnGameInstallPathChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.184] [info] [thread 8404] cgd OnGameInstallPathChanged m_strGameUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.184] [info] [thread 8404] cdsdka enter Pause, m_strUserData:cd2d0f009b9c3997c1e4d319ed1a0eae, m_nCurDownloadTaskId:-1
+[03-08 00:54:27.184] [info] [thread 8404] cdsdka _StopWaitResumeTimer, m_strUserData:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:27.184] [info] [thread 8404] ccgdzm OnGameInstallPathChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.184] [info] [thread 8404] ccgdz OnGameInstallPathChanged, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.184] [info] [thread 8404] ccfma ClearMd5DiffFilesCache
+[03-08 00:54:27.184] [info] [thread 8404] ccdfm OnGameInstallPathChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.184] [info] [thread 8404] ccdf OnGameInstallPathChanged m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.184] [info] [thread 8404] ccfma ClearMd5DiffFilesCache
+[03-08 00:54:27.184] [info] [thread 8404] cgfm OnGameInstallPathChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.184] [info] [thread 8404] ccgf OnGameInstallPathChanged m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.184] [info] [thread 8404] ccgcm OnGameInstallPathChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.184] [info] [thread 8404] ccgc OnGameInstallPathChanged m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.184] [info] [thread 8404] ccfma ClearMd5DiffFilesCache
+[03-08 00:54:27.184] [info] [thread 8404] cgdm OnGameInstallPathChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.184] [info] [thread 8404] cgd OnGameInstallPathChanged m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, m_strGameInstallPath:, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.184] [info] [thread 8404] cgmb OnGameVerChanged strGameUUId:00bfde3364b029e4e543dd8cd4e87f71, strGameVer:
+[03-08 00:54:27.184] [error] [thread 8404] cgmb CGameMgrBase::OnGameVerChanged get game failed
+[03-08 00:54:27.184] [info] [thread 8404] cgmb OnEntryChanged strGameUUId:00bfde3364b029e4e543dd8cd4e87f71, strEntry:
+[03-08 00:54:27.184] [error] [thread 8404] cgmb CGameMgrBase::OnEntryChanged get game failed
+[03-08 00:54:27.184] [info] [thread 8404] cgmb OnGameFilesStateChanged strGameUUId:00bfde3364b029e4e543dd8cd4e87f71, eOldState:0, eNewState:2
+[03-08 00:54:27.184] [error] [thread 8404] cgmb CGameMgrBase::OnGameFilesStateChanged get game failed
+[03-08 00:54:27.184] [info] [thread 8404] cgmb OnGameInstallPathChanged strGameUUId:00bfde3364b029e4e543dd8cd4e87f71, strGameInstallPath:D:\GRYPHLINK\games\POPUCOM Game
+[03-08 00:54:27.184] [error] [thread 8404] cgmb CGameMgrBase::OnGameInstallPathChanged get game failed
+[03-08 00:54:27.184] [info] [thread 8404] cgdm OnGameInstallPathChanged strGameUUId:00bfde3364b029e4e543dd8cd4e87f71, strGameInstallPath:D:\GRYPHLINK\games\POPUCOM Game
+[03-08 00:54:27.184] [info] [thread 8404] cgd OnGameInstallPathChanged m_strGameUUID:00bfde3364b029e4e543dd8cd4e87f71, strGameInstallPath:D:\GRYPHLINK\games\POPUCOM Game
+[03-08 00:54:27.184] [info] [thread 8404] cdsdka enter Pause, m_strUserData:00bfde3364b029e4e543dd8cd4e87f71, m_nCurDownloadTaskId:-1
+[03-08 00:54:27.184] [info] [thread 8404] cdsdka _StopWaitResumeTimer, m_strUserData:00bfde3364b029e4e543dd8cd4e87f71
+[03-08 00:54:27.184] [info] [thread 8404] ccgdzm OnGameInstallPathChanged strGameUUId:00bfde3364b029e4e543dd8cd4e87f71, strGameInstallPath:D:\GRYPHLINK\games\POPUCOM Game
+[03-08 00:54:27.184] [info] [thread 8404] ccgdz OnGameInstallPathChanged, m_strUUID:00bfde3364b029e4e543dd8cd4e87f71, strGameInstallPath:D:\GRYPHLINK\games\POPUCOM Game
+[03-08 00:54:27.184] [info] [thread 8404] ccfma ClearMd5DiffFilesCache
+[03-08 00:54:27.184] [info] [thread 8404] ccdfm OnGameInstallPathChanged strGameUUId:00bfde3364b029e4e543dd8cd4e87f71, strGameInstallPath:D:\GRYPHLINK\games\POPUCOM Game
+[03-08 00:54:27.184] [info] [thread 8404] ccdf OnGameInstallPathChanged m_strUUID:00bfde3364b029e4e543dd8cd4e87f71, strGameInstallPath:D:\GRYPHLINK\games\POPUCOM Game
+[03-08 00:54:27.184] [info] [thread 8404] ccfma ClearMd5DiffFilesCache
+[03-08 00:54:27.184] [info] [thread 8404] cgfm OnGameInstallPathChanged strGameUUId:00bfde3364b029e4e543dd8cd4e87f71, strGameInstallPath:D:\GRYPHLINK\games\POPUCOM Game
+[03-08 00:54:27.184] [info] [thread 8404] ccgf OnGameInstallPathChanged m_strUUID:00bfde3364b029e4e543dd8cd4e87f71, strGameInstallPath:D:\GRYPHLINK\games\POPUCOM Game
+[03-08 00:54:27.184] [info] [thread 8404] ccgcm OnGameInstallPathChanged strGameUUId:00bfde3364b029e4e543dd8cd4e87f71, strGameInstallPath:D:\GRYPHLINK\games\POPUCOM Game
+[03-08 00:54:27.184] [info] [thread 8404] ccgc OnGameInstallPathChanged m_strUUID:00bfde3364b029e4e543dd8cd4e87f71, strGameInstallPath:D:\GRYPHLINK\games\POPUCOM Game
+[03-08 00:54:27.184] [info] [thread 8404] ccfma ClearMd5DiffFilesCache
+[03-08 00:54:27.184] [info] [thread 8404] cgdm OnGameInstallPathChanged strGameUUId:00bfde3364b029e4e543dd8cd4e87f71, strGameInstallPath:D:\GRYPHLINK\games\POPUCOM Game
+[03-08 00:54:27.184] [info] [thread 8404] cgd OnGameInstallPathChanged m_strUUID:00bfde3364b029e4e543dd8cd4e87f71, m_strGameInstallPath:, strGameInstallPath:D:\GRYPHLINK\games\POPUCOM Game
+[03-08 00:54:27.184] [info] [thread 8404] cgmb OnGameFilesStateChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, eOldState:1, eNewState:0
+[03-08 00:54:27.184] [info] [thread 8404] cg OnGameFilesStateChanged, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, eOldState:1, eNewState:0
+[03-08 00:54:27.184] [info] [thread 8404] cvwg OnGameFilesStateChanged m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, eOldState:1, eNewState:0
+[03-08 00:54:27.184] [info] [thread 8404] cvwgb OnGameFilesStateChanged m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, eOldState:1, eNewState:0
+[03-08 00:54:27.184] [info] [thread 8404] cgmb OnGameVerChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameVer:1.0.14
+[03-08 00:54:27.184] [info] [thread 8404] cgmb OnEntryChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strEntry:Endfield.exe
+[03-08 00:54:27.184] [info] [thread 8404] cgmb OnGameFilesStateChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, eOldState:0, eNewState:1
+[03-08 00:54:27.184] [info] [thread 8404] cg OnGameFilesStateChanged, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, eOldState:0, eNewState:1
+[03-08 00:54:27.184] [info] [thread 8404] cvwg OnGameFilesStateChanged m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, eOldState:0, eNewState:1
+[03-08 00:54:27.184] [info] [thread 8404] cvwgb OnGameFilesStateChanged m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, eOldState:0, eNewState:1
+[03-08 00:54:27.184] [info] [thread 8404] cgmb OnGameBookedInfoChanged
+[03-08 00:54:27.184] [info] [thread 8404] cvwg OnGameBookedInfoChanged m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:27.184] [info] [thread 8404] cwdmb OnGameBookedInfoChanged
+[03-08 00:54:27.184] [info] [thread 8404] cgm OnDownloadedGameListChanged
+[03-08 00:54:27.184] [info] [thread 8404] cgmb OnDownloadedGameListChanged
+[03-08 00:54:27.184] [info] [thread 8404] cwgp OnDownloadedGameListChanged
+[03-08 00:54:27.184] [info] [thread 8404] cwgp _TryFirstShowGame, m_bRecvDownloadedGameListChanged:true, m_bInited:true, m_bFirstSwitchWnd:false
+[03-08 00:54:27.184] [info] [thread 8404] cgmb OnGameInstallPathChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.184] [info] [thread 8404] cg OnGameInstallPathChanged, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.184] [info] [thread 8404] cvwg OnGameInstallPathChanged m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.184] [info] [thread 8404] ccl enter IsSsd strPath:D:
+[03-08 00:54:27.185] [info] [thread 8404] ccl leave IsSsd bRet:true
+[03-08 00:54:27.185] [info] [thread 8404] cgdm OnGameInstallPathChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.185] [info] [thread 8404] cgd OnGameInstallPathChanged m_strGameUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.185] [info] [thread 8404] cdsdka enter Pause, m_strUserData:cd2d0f009b9c3997c1e4d319ed1a0eae, m_nCurDownloadTaskId:-1
+[03-08 00:54:27.185] [info] [thread 8404] cdsdka _StopWaitResumeTimer, m_strUserData:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:27.185] [info] [thread 8404] ccgdzm OnGameInstallPathChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.185] [info] [thread 8404] ccgdz OnGameInstallPathChanged, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.185] [info] [thread 8404] ccfma ClearMd5DiffFilesCache
+[03-08 00:54:27.185] [info] [thread 8404] ccdfm OnGameInstallPathChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.185] [info] [thread 8404] ccdf OnGameInstallPathChanged m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.185] [info] [thread 8404] ccfma ClearMd5DiffFilesCache
+[03-08 00:54:27.185] [info] [thread 8404] cgfm OnGameInstallPathChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.185] [info] [thread 8404] ccgf OnGameInstallPathChanged m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.185] [info] [thread 8404] ccgcm OnGameInstallPathChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.185] [info] [thread 8404] ccgc OnGameInstallPathChanged m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.185] [info] [thread 8404] ccfma ClearMd5DiffFilesCache
+[03-08 00:54:27.185] [info] [thread 8404] cgdm OnGameInstallPathChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.185] [info] [thread 8404] cgd OnGameInstallPathChanged m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, m_strGameInstallPath:D:/GRYPHLINK/games/EndField Game, strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:27.337] [info] [thread 8404] qeeve OnWebLoadFinished bRet:true
+[03-08 00:54:27.337] [info] [thread 8404] cha OnWebLoadFinished, m_bMainWndFirstShow:true, bRet:true
+[03-08 00:54:27.337] [info] [thread 8404] cha _DoDelayShowMainWnd, m_bMainWndFirstShow:true, m_pMainWnd:true
+[03-08 00:54:27.404] [info] [thread 8404] cwdmb OnJsBridgeConnected
+[03-08 00:54:27.404] [info] [thread 8404] qeeve _DoSendMsg msgType:user_login_notify, msgBody:{}, bRet:true
+[03-08 00:54:27.404] [info] [thread 8404] qeeve _DoSendMsg msgType:user_info_notify, msgBody:{"phone":"","user_id":"","nick_name":"","email":""}, bRet:true
+[03-08 00:54:27.404] [info] [thread 8404] qeeve _DoSendMsg msgType:downloaded_game_list_notify, msgBody:{"dbg":false,"is_single_game":false,"items":[{"game_name":"EndField","game_name_string":"Arknights: Endfield","app_code":"YDUTE5gscDZ229CW","channel":6,"sub_channel":6,"region":"sg","uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","is_stop_service":false,"theme":"endfield","game_state":"uninstalled","download_state":{}}]}, bRet:true
+[03-08 00:54:27.404] [info] [thread 8404] qeeve _DoSendMsg msgType:main_btn_state_notify, msgBody:{"uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","state":"start_game","text_normal":"Играть","text_hover":"Играть","tooltip":"","sub_tip":""}, bRet:true
+[03-08 00:54:27.404] [info] [thread 8404] qeeve _DoSendMsg msgType:lang_changed_notify, msgBody:{"lang":"ru-ru","main_btn_width":238}, bRet:true
+[03-08 00:54:27.426] [info] [thread 8328] chum enter _ClearDownloaderDefDownloadPath
+[03-08 00:54:27.511] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:eventLog, msgBody:{"eventLogType":"game","eventName":"page_view","eventData":"{}","uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae"}
+[03-08 00:54:27.511] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:eventLog, msgBody:{"eventLogType":"launcher","eventName":"launcher_page_exposure","eventData":"{\"type\":\"game_mainpage\",\"appcode\":\"YDUTE5gscDZ229CW\"}","uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae"}
+[03-08 00:54:27.526] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:downloaded_game_list_req, msgBody:{"callbackEvent":"downloaded_game_list_rsp"}
+[03-08 00:54:27.526] [info] [thread 8404] qeeve _DoSendMsg msgType:downloaded_game_list_rsp, msgBody:{"callbackEvent":"downloaded_game_list_rsp","eventId":"","items":[{"game_name":"EndField","game_name_string":"Arknights: Endfield","app_code":"YDUTE5gscDZ229CW","channel":6,"sub_channel":6,"region":"sg","uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","is_stop_service":false,"theme":"endfield","game_state":"uninstalled","download_state":{}}]}, bRet:true
+[03-08 00:54:27.526] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:all_game_list_req, msgBody:{"callbackEvent":"all_game_list_rsp"}
+[03-08 00:54:27.526] [info] [thread 8404] qeeve _DoSendMsg msgType:all_game_list_rsp, msgBody:{ "callbackEvent":"all_game_list_rsp", "eventId":"", "is_single_game":false, "items":[{"game_name":"","app_code":"TiaytKBUIEdoEwRT","channel":"6","sub_channel":"6","region":"sg","uuid":"d9f71f86325c5b9733268efda40413c8","is_game":false,"theme":""},{"game_name":"EndField","app_code":"YDUTE5gscDZ229CW","channel":"6","sub_channel":"6","region":"sg","uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","is_game":true,"theme":"endfield"},{"game_name":"POPUCOM","app_code":"FtQqkyFLX4Z0bg8G","channel":"6","sub_channel":"6","region":"sg","uuid":"00bfde3364b029e4e543dd8cd4e87f71","is_game":true,"theme":"popucom"}] }, bRet:true
+[03-08 00:54:27.526] [info] [thread 8404] cgm OnShowableGameListChanged
+[03-08 00:54:27.526] [info] [thread 8404] cul CreateMutilDirIfNeed strPath:C:\Users\Epicmine\AppData\Roaming\Gryphline\d9f71f86325c5b9733268efda40413c8\icon, bRet:true, bExist:true, nCount:0
+[03-08 00:54:27.531] [info] [thread 8404] cgmb OnShowableGameListChanged
+[03-08 00:54:27.531] [info] [thread 8404] cwdm OnShowableGameListChanged, m_bRecvAllGameListReq:true
+[03-08 00:54:27.531] [info] [thread 8404] qeeve _DoSendMsg msgType:all_game_list_notify, msgBody:{ "is_single_game":false, "items":[{"game_name":"","app_code":"TiaytKBUIEdoEwRT","channel":"6","sub_channel":"6","region":"sg","uuid":"d9f71f86325c5b9733268efda40413c8","is_game":false,"theme":""},{"game_name":"EndField","app_code":"YDUTE5gscDZ229CW","channel":"6","sub_channel":"6","region":"sg","uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","is_game":true,"theme":"endfield"},{"game_name":"POPUCOM","app_code":"FtQqkyFLX4Z0bg8G","channel":"6","sub_channel":"6","region":"sg","uuid":"00bfde3364b029e4e543dd8cd4e87f71","is_game":true,"theme":"popucom"}] }, bRet:true
+[03-08 00:54:27.532] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:main_btn_state_req, msgBody:{"data":{"uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae"},"callbackEvent":"main_btn_state_rsp"}
+[03-08 00:54:27.532] [info] [thread 8404] qeeve _DoSendMsg msgType:main_btn_state_rsp, msgBody:{"callbackEvent":"main_btn_state_rsp","eventId":"","uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","state":"start_game","text_normal":"Играть","text_hover":"Играть","tooltip":"","sub_tip":""}, bRet:true
+[03-08 00:54:27.532] [info] [thread 8404] qeeve _DoSendMsg msgType:game_setting_notify, msgBody:{"uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","render_mode":"vk","show_render_mode":true}, bRet:true
+[03-08 00:54:27.532] [info] [thread 8404] cwdmb OnRecvWebPageLoaded
+[03-08 00:54:27.543] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{}
+[03-08 00:54:27.543] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{"phone":"","user_id":"","nick_name":"","email":""}
+[03-08 00:54:27.543] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{"dbg":false,"is_single_game":false,"items":[{"game_name":"EndField","game_name_string":"Arknights: Endfield","app_code":"YDUTE5gscDZ229CW","channel":6,"sub_channel":6,"region":"sg","uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","is_stop_service":false,"theme":"endfield","game_state":"uninstalled","download_state":{}}]}
+[03-08 00:54:27.543] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{"uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","state":"start_game","text_normal":"Играть","text_hover":"Играть","tooltip":"","sub_tip":""}
+[03-08 00:54:27.543] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{"lang":"ru-ru","main_btn_width":238}
+[03-08 00:54:27.606] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{"callbackEvent":"downloaded_game_list_rsp","eventId":"","items":[{"game_name":"EndField","game_name_string":"Arknights: Endfield","app_code":"YDUTE5gscDZ229CW","channel":6,"sub_channel":6,"region":"sg","uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","is_stop_service":false,"theme":"endfield","game_state":"uninstalled","download_state":{}}]}
+[03-08 00:54:27.607] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{ "callbackEvent":"all_game_list_rsp", "eventId":"", "is_single_game":false, "items":[{"game_name":"","app_code":"TiaytKBUIEdoEwRT","channel":"6","sub_channel":"6","region":"sg","uuid":"d9f71f86325c5b9733268efda40413c8","is_game":false,"theme":""},{"game_name":"EndField","app_code":"YDUTE5gscDZ229CW","channel":"6","sub_channel":"6","region":"sg","uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","is_game":true,"theme":"endfield"},{"game_name":"POPUCOM","app_code":"FtQqkyFLX4Z0bg8G","channel":"6","sub_channel":"6","region":"sg","uuid":"00bfde3364b029e4e543dd8cd4e87f71","is_game":true,"theme":"popucom"}] }
+[03-08 00:54:27.607] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{ "is_single_game":false, "items":[{"game_name":"","app_code":"TiaytKBUIEdoEwRT","channel":"6","sub_channel":"6","region":"sg","uuid":"d9f71f86325c5b9733268efda40413c8","is_game":false,"theme":""},{"game_name":"EndField","app_code":"YDUTE5gscDZ229CW","channel":"6","sub_channel":"6","region":"sg","uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","is_game":true,"theme":"endfield"},{"game_name":"POPUCOM","app_code":"FtQqkyFLX4Z0bg8G","channel":"6","sub_channel":"6","region":"sg","uuid":"00bfde3364b029e4e543dd8cd4e87f71","is_game":true,"theme":"popucom"}] }
+[03-08 00:54:27.608] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{"callbackEvent":"main_btn_state_rsp","eventId":"","uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","state":"start_game","text_normal":"Играть","text_hover":"Играть","tooltip":"","sub_tip":""}
+[03-08 00:54:27.608] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{"uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","render_mode":"vk","show_render_mode":true}
+[03-08 00:54:27.918] [info] [thread 8328] chum enter _ClearDownloaderDefDownloadPath
+[03-08 00:54:27.985] [info] [thread 8404] chcb OnFinished eHttpClientReqType:6, nCode:200
+[03-08 00:54:27.986] [info] [thread 8404] clhc OnHttpClientReqResult eHttpClientReqType:6, bRet:true, nCode:200
+[03-08 00:54:27.986] [info] [thread 8404] cgv OnPost_ProtocalVer_LauncherVer_GameVer_Req_Result m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200, m_bProtocalVer_LauncherVer_GameVer_Querying:true
+[03-08 00:54:27.986] [info] [thread 8404] clgi ParseLatestGameJson parse bRet:true
+[03-08 00:54:27.986] [info] [thread 8404] clgi ParseLaucherInfoJson parse bRet:true
+[03-08 00:54:27.986] [info] [thread 8404] clgi ParseLatestGameJson parse bRet:true
+[03-08 00:54:27.986] [info] [thread 8404] clssgl ParseLastestStopServiceGameInfoJson parse bRet:true
+[03-08 00:54:27.986] [info] [thread 8404] clgdi ParseLastestStopServiceGameInfoJson parse bRet:true
+[03-08 00:54:27.986] [info] [thread 8404] cgv OnPost_ProtocalVer_LauncherVer_GameVer_Req_Result m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bParseRet:true
+[03-08 00:54:27.986] [info] [thread 8404] clgai OnLastestStopServiceGameInfoChanged, info:[uuid:cd2d0f009b9c3997c1e4d319ed1a0eae, seq:5, timestamp:1772913281585, data:{"latest_games":{}}]
+[03-08 00:54:27.986] [info] [thread 8404] clgai enter _UpdateDownloadedGameList, bFirstInit:false
+[03-08 00:54:27.987] [info] [thread 8404] clgu enter CheckGameFilesState strPath:D:\GRYPHLINK\games\POPUCOM Game, strConfigGameUUID:00bfde3364b029e4e543dd8cd4e87f71
+[03-08 00:54:27.987] [error] [thread 8404] clgu leave CheckGameFilesState valid failed 1
+[03-08 00:54:27.987] [info] [thread 8404] clgai leave _UpdateDownloadedGameList, m_strUUIdForFirstShow:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:27.987] [info] [thread 8404] clgai OnLastestGameDownloadableInfoChanged, info:[uuid:cd2d0f009b9c3997c1e4d319ed1a0eae, seq:5, timestamp:1772913281585, data:{"games":{"FtQqkyFLX4Z0bg8G":{"launcher_action":0},"YDUTE5gscDZ229CW":{"launcher_action":0}}}]
+[03-08 00:54:27.998] [info] [thread 8404] clgai enter _UpdateDownloadedGameList, bFirstInit:false
+[03-08 00:54:27.998] [info] [thread 8404] clgu enter CheckGameFilesState strPath:D:\GRYPHLINK\games\POPUCOM Game, strConfigGameUUID:00bfde3364b029e4e543dd8cd4e87f71
+[03-08 00:54:27.998] [error] [thread 8404] clgu leave CheckGameFilesState valid failed 1
+[03-08 00:54:27.998] [info] [thread 8404] clgai leave _UpdateDownloadedGameList, m_strUUIdForFirstShow:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:27.998] [info] [thread 8404] claac OnLastestProtocolInfoChanged strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strSeq:5, m_lastestProtocolInfo:{"dataVersion":"55e1c89ea25657a11d1ceb719c9a5127","protocol":{"version":"0"}}
+[03-08 00:54:27.998] [info] [thread 8404] claac OnLastestLauncherInfoChanged strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strSeq:5, m_lastestLauncherInfo:{"action":0,"description":"","md5":"","package_size":"0","request_version":"1.1.0","total_size":"0","version":"1.1.0","zip_package_url":""}
+[03-08 00:54:27.998] [info] [thread 8404] cgv OnLastestGameInfoChanged m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, m_lastestGameInfo:{"action":0,"launcher_action":0,"patch":null,"pkg":{"file_id":"0","file_path":"https://beyond.hg-cdn.com/YDUTE5gscDZ229CW/1.0/update/6/6/Windows/1.0.14_Qk2mXHuAH1JWKF37/files","game_files_md5":"c36ad08e5d4a7cfd580228971d7a4563","md5":"","package_size":"0","packs":[],"sub_channel":"6","total_size":"0","url":""},"request_version":"1.0.14","state":0,"version":"1.0.14"}
+[03-08 00:54:28.001] [info] [thread 8404] cgm OnShowableGameListChanged
+[03-08 00:54:28.001] [info] [thread 8404] cul CreateMutilDirIfNeed strPath:C:\Users\Epicmine\AppData\Roaming\Gryphline\d9f71f86325c5b9733268efda40413c8\icon, bRet:true, bExist:true, nCount:0
+[03-08 00:54:28.007] [info] [thread 8404] cgmb OnShowableGameListChanged
+[03-08 00:54:28.007] [info] [thread 8404] cwdm OnShowableGameListChanged, m_bRecvAllGameListReq:true
+[03-08 00:54:28.007] [info] [thread 8404] qeeve _DoSendMsg msgType:all_game_list_notify, msgBody:{ "is_single_game":false, "items":[{"game_name":"","app_code":"TiaytKBUIEdoEwRT","channel":"6","sub_channel":"6","region":"sg","uuid":"d9f71f86325c5b9733268efda40413c8","is_game":false,"theme":""},{"game_name":"EndField","app_code":"YDUTE5gscDZ229CW","channel":"6","sub_channel":"6","region":"sg","uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","is_game":true,"theme":"endfield"},{"game_name":"POPUCOM","app_code":"FtQqkyFLX4Z0bg8G","channel":"6","sub_channel":"6","region":"sg","uuid":"00bfde3364b029e4e543dd8cd4e87f71","is_game":true,"theme":"popucom"}] }, bRet:true
+[03-08 00:54:28.007] [info] [thread 8404] cgm OnDownloadedGameListChanged
+[03-08 00:54:28.007] [info] [thread 8404] cgmb OnDownloadedGameListChanged
+[03-08 00:54:28.007] [info] [thread 8404] cwgp OnDownloadedGameListChanged
+[03-08 00:54:28.007] [info] [thread 8404] cwgp _TryFirstShowGame, m_bRecvDownloadedGameListChanged:true, m_bInited:true, m_bFirstSwitchWnd:false
+[03-08 00:54:28.007] [info] [thread 8404] cgm OnLastestStopServiceGameInfoChanged
+[03-08 00:54:28.007] [info] [thread 8404] cgmb OnLastestStopServiceGameInfoChanged
+[03-08 00:54:28.007] [info] [thread 8404] cvwg OnLastestGameInfoChanged m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:28.007] [info] [thread 8404] cgmb OnQueryLastestStopServiceGameInfoResult strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200
+[03-08 00:54:28.007] [info] [thread 8404] cvwgb OnQueryLastestStopServiceGameInfoResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200, pUserData:5
+[03-08 00:54:28.007] [info] [thread 8404] cvwgb OnQueryLastestStopServiceGameInfoResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, nCode:200, bStopServiceGame:false
+[03-08 00:54:28.007] [info] [thread 8404] cgm OnDownloadedGameListChanged
+[03-08 00:54:28.007] [info] [thread 8404] cgmb OnDownloadedGameListChanged
+[03-08 00:54:28.007] [info] [thread 8404] cwgp OnDownloadedGameListChanged
+[03-08 00:54:28.007] [info] [thread 8404] cwgp _TryFirstShowGame, m_bRecvDownloadedGameListChanged:true, m_bInited:true, m_bFirstSwitchWnd:false
+[03-08 00:54:28.007] [info] [thread 8404] cgmb OnLastestGameDownloadableInfoChanged
+[03-08 00:54:28.007] [info] [thread 8404] cvwg OnLastestGameDownloadableInfoChanged m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:false
+[03-08 00:54:28.007] [info] [thread 8404] cg OnLastestGameDownloadableInfoChanged m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true
+[03-08 00:54:28.007] [info] [thread 8404] cgmb OnQueryLastestGameDownloadableInfoResult strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200
+[03-08 00:54:28.007] [info] [thread 8404] cvwgb OnQueryLastestGameDownloadableInfoResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200, pUserData:5
+[03-08 00:54:28.007] [info] [thread 8404] cvwgb OnQueryLastestGameDownloadableInfoResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, nCode:200
+[03-08 00:54:28.007] [info] [thread 8404] cgmb OnLastestProtocolVerChanged strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:28.007] [info] [thread 8404] cgb OnLastestProtocolVerChanged m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bNeedUpdateProtocolVer:false, bLastestProtocolVerChangedProcessing:false, bLastestLauncherVerChangedProcessing:false
+[03-08 00:54:28.007] [info] [thread 8404] cgmb OnLastestLauncherVerChanged strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:28.007] [info] [thread 8404] cgb OnLastestLauncherVerChanged m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bNeedUpdateProtocolVer:false, bLastestProtocolVerChangedProcessing:false, bLastestLauncherVerChangedProcessing:false
+[03-08 00:54:28.007] [info] [thread 8404] cgmb OnLastestGameInfoChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:28.007] [info] [thread 8404] cg enter OnLastestGameInfoChanged, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:28.007] [info] [thread 8404] cvwg OnLastestGameInfoChanged m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:28.007] [info] [thread 8404] cg enter _HandleLastestGameInfoChanged, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bGetVerFailed:false
+[03-08 00:54:28.007] [info] [thread 8404] cvwg OnQureyLastestDownloadOrDecompressIsBrokenStart m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:28.007] [info] [thread 8404] cvwg OnQureyLastestDownloadOrDecompressIsBrokenFinished m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:28.007] [info] [thread 8404] cvwg _EnableMainBtn m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, m_bMainBtnDisabled:false, strReason:game IsReasonForClickStartOrUpdateGameBtn true
+[03-08 00:54:28.008] [info] [thread 8404] cg leave _HandleLastestGameInfoChanged  m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, m_bDelayDoneForSetDiffDownloadPath:false, bBroken:false, bIsPatchBroken:false, bLastestGameZipCheckIsBroken:false, m_bQueryLastestGameInfoSuccess:false
+[03-08 00:54:28.008] [info] [thread 8404] cgmb OnQuery_ProtocolVer_LauncherVer_GameVer_Result strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200
+[03-08 00:54:28.008] [info] [thread 8404] cg OnQuery_ProtocolVer_LauncherVer_GameVer_Result, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae bRet:true, nCode:200, eReason:5
+[03-08 00:54:28.008] [info] [thread 8404] cgmb OnQueryLatestGameResult strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200
+[03-08 00:54:28.008] [info] [thread 8404] cg OnQueryLatestGameResult m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200, eReason:5, m_eReasonForClickBtnType:0, m_bDelayDone:false, bNeedUpdateProtocolVer:false, bNotifyUpdate:false, m_bLastestGameInfoChanged:true, bLastestProtocolVerChangedProcessing:false, bLastestLauncherVerChangedProcessing:false, m_bQueryLatestGameResultProcessing:false, bStop:false, bGameBookable:false
+[03-08 00:54:28.008] [info] [thread 8404] cvwg OnQueryLatestGameResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200, m_bFirstQueryLatestGameResultFailed:false, m_bHasQueryLatestGameResultSuccess:false
+[03-08 00:54:28.008] [info] [thread 8404] cvwgb OnGameMgrAfterHandleQueryLatestGameResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bQueryLatestGameResult:true, nCode:200, bDownloadOrUpdateGame:false, bCancelOpt:false
+[03-08 00:54:28.008] [info] [thread 8404] cg leave OnQueryLatestGameResult m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:28.008] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{ "is_single_game":false, "items":[{"game_name":"","app_code":"TiaytKBUIEdoEwRT","channel":"6","sub_channel":"6","region":"sg","uuid":"d9f71f86325c5b9733268efda40413c8","is_game":false,"theme":""},{"game_name":"EndField","app_code":"YDUTE5gscDZ229CW","channel":"6","sub_channel":"6","region":"sg","uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","is_game":true,"theme":"endfield"},{"game_name":"POPUCOM","app_code":"FtQqkyFLX4Z0bg8G","channel":"6","sub_channel":"6","region":"sg","uuid":"00bfde3364b029e4e543dd8cd4e87f71","is_game":true,"theme":"popucom"}] }
+[03-08 00:54:28.078] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:eventLog, msgBody:{"eventLogType":"launcher","eventName":"launcher_server_aggregation","eventData":"{\"type\":\"\",\"appcode\":\"YDUTE5gscDZ229CW\",\"error_code\":\"\",\"error_message\":\"\"}","uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae"}
+[03-08 00:54:28.111] [info] [thread 8404] chcb OnFinished eHttpClientReqType:14, nCode:200
+[03-08 00:54:28.112] [info] [thread 8404] login http client OnHttpClientReqResult eHttpClientReqType:14, bRet:true, nCode:200
+[03-08 00:54:28.112] [info] [thread 8404] get user basic end,ret:true,code:200
+[03-08 00:54:28.112] [info] [thread 8404] clm signal login result, result:true, msg:
+[03-08 00:54:28.112] [info] [thread 8404] cwdmb OnLoginResult bSuccess:true, msg:
+[03-08 00:54:28.112] [info] [thread 8404] qeeve _DoSendMsg msgType:user_login_notify, msgBody:{}, bRet:true
+[03-08 00:54:28.112] [info] [thread 8404] cvwgb OnLoginResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bSuccess:true
+[03-08 00:54:28.112] [info] [thread 8404] cmwb user basic info succussfull
+[03-08 00:54:28.112] [info] [thread 8404] cwdmb OnUserBasicInfo strPhone:, strUserID:1013305954, strNickName:, strEmail:is*****a9@gmail.com
+[03-08 00:54:28.112] [info] [thread 8404] qeeve _DoSendMsg msgType:user_info_notify, msgBody:{"phone":"","user_id":"1013305954","nick_name":"","email":"is*****a9@gmail.com"}, bRet:true
+[03-08 00:54:28.112] [info] [thread 8404] cvwgb OnUserBasicInfo m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, phone:, hgID:1013305954, strNickName:, strEmail:is*****a9@gmail.com
+[03-08 00:54:28.112] [info] [thread 8404] clm user basic info get successfull, phone:, user_id:1013305954, login type:1
+[03-08 00:54:28.120] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{}
+[03-08 00:54:28.121] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{"phone":"","user_id":"1013305954","nick_name":"","email":"is*****a9@gmail.com"}
+[03-08 00:54:28.313] [info] [thread 8404] chcb OnFinished eHttpClientReqType:5, nCode:200
+[03-08 00:54:28.313] [info] [thread 8404] clhc OnHttpClientReqResult eHttpClientReqType:5, bRet:true, nCode:200
+[03-08 00:54:28.313] [info] [thread 8404] claac OnGetWebZipInfoResult bRet:true, nCode:200, strData:{"cdn": "https://launcher.hg-cdn.com/launcher_web/gl/prod/0.2.7_KZHNuMbw/build.zip", "version": "0.2.7"}
+[03-08 00:54:28.314] [info] [thread 8404] claac OnLastestWebZipInfoChanged strVersion:0.2.7, strUrl:https://launcher.hg-cdn.com/launcher_web/gl/prod/0.2.7_KZHNuMbw/build.zip, m_lastestWebZipInfo:
+[03-08 00:54:28.314] [info] [thread 8404] cwvm enter OnLastestWebZipInfoChanged m_strWebVersion:0.2.8, strVersion:0.2.7, strUrl:https://launcher.hg-cdn.com/launcher_web/gl/prod/0.2.7_KZHNuMbw/build.zip
+[03-08 00:54:28.314] [info] [thread 8404] cwvm leave OnLastestWebZipInfoChanged, bRet:false, strWebZipUrl:, m_strWebDownloadSubPath:
+[03-08 00:54:28.419] [info] [thread 8328] chum enter _ClearDownloaderDefDownloadPath
+[03-08 00:54:28.924] [info] [thread 8328] chum enter _ClearDownloaderDefDownloadPath
+[03-08 00:54:29.424] [info] [thread 8328] chum enter _ClearDownloaderDefDownloadPath
+[03-08 00:54:29.851] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:click_main_btn, msgBody:{"uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae"}
+[03-08 00:54:29.851] [info] [thread 8404] cvwg enter DoMainBtnClicked m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, m_eMainBtnFailedType:0, m_bGameDisableDownload:false
+[03-08 00:54:29.851] [info] [thread 8404] cvwg enter _PreHandleMainBtnSpecialState m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, m_bMainBtnDisabled:false, m_mainBtnStateInfo:strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, eMainBtnType:1, strState:start_game, bGameServiceStopped:0, bNeedLogin:0, bNeedPurchase:0, bQueryLatestGameResult:1, bPreparingStartGame:0, bInAnyFailedOrQueuingDownload:false, m_bGameDisableDownload:false, bGameDisableDownload:false
+[03-08 00:54:29.851] [info] [thread 8404] cvwg leave _PreHandleMainBtnSpecialState m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, nRet:-1, bRet:false
+[03-08 00:54:29.851] [info] [thread 8404] cvwg enter _DoMainBtnClicked m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, m_bMainBtnDisabled:false, bReqireContinueDownload:false, bClicked:true, bSetDiffDownloadPathInGamePathSettingDlg:false, m_eMainBtnFailedType:0, m_mainBtnStateInfo:strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, eMainBtnType:1, strState:start_game, bGameServiceStopped:0, bNeedLogin:0, bNeedPurchase:0, bQueryLatestGameResult:1, bPreparingStartGame:0, bGameDisableDownload:false, m_bGameDisableDownload:false
+[03-08 00:54:29.851] [info] [thread 8404] cvwg _EnableMainBtn m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, m_bMainBtnDisabled:true, strReason:m_bQureyLastestDownloadOrDecompressIsBrokenFinished: true, bForceDisable: true
+[03-08 00:54:29.862] [info] [thread 8404] clgu enter CheckGameFilesState strPath:D:\GRYPHLINK\games\EndField Game, strConfigGameUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:29.862] [info] [thread 8404] clgu enter ReadGameConfig strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:29.863] [info] [thread 8404] clgu leave ReadGameConfig bParseUninstallInfo:false, strGameVer:1.0.14, strEntry:Endfield.exe, strEntryMd5:2555b8133f6cb3a408c29a3cbe804bb4, strAppCode:YDUTE5gscDZ229CW, strChannel:6, strSubChannel:6, strRegion:sg, strGameUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strUninstallPath:, strUninstallParams:
+[03-08 00:54:29.863] [info] [thread 8404] clgu CheckGameUUID strGameUUID1:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameUUID2:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true
+[03-08 00:54:29.863] [info] [thread 8404] clgu CheckGameEntry strGameEntry:D:\GRYPHLINK\games\EndField Game\Endfield.exe, bEntryFileValid:true
+[03-08 00:54:29.863] [info] [thread 8404] clgu leave CheckGameFilesState bGameConfigFileValid:true, bEntryFileValid:true, eGameFileState:1
+[03-08 00:54:29.863] [info] [thread 8404] clgu enter ReadGameConfig strGameInstallPath:D:\GRYPHLINK\games\EndField Game
+[03-08 00:54:29.864] [info] [thread 8404] clgu leave ReadGameConfig bParseUninstallInfo:false, strGameVer:1.0.14, strEntry:Endfield.exe, strEntryMd5:2555b8133f6cb3a408c29a3cbe804bb4, strAppCode:YDUTE5gscDZ229CW, strChannel:6, strSubChannel:6, strRegion:sg, strGameUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strUninstallPath:, strUninstallParams:
+[03-08 00:54:29.864] [info] [thread 8404] cgv OnGameConfigLoadFinished m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true
+[03-08 00:54:29.864] [info] [thread 8404] cgv enter Query_ProtocolVer_LauncherVer_GameVer m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:29.864] [info] [thread 8404] clhc enter Post_ProtocolVer_LauncherVer_GameVer_Req strProtocolVersion:0, strLauncherVersion:1.1.0, strLanguage:ru-ru, strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strGameVersion:1.0.14, strGameAppCode:YDUTE5gscDZ229CW, strGameChannel:6, strGameSubChannel:6, strSeq:1, bContainProtocolVersion:false, bContainGameVersion:true strDeviceId:F11A3D55-A037-448E-9A16-A922AFD1372D, strTargetApp:EndField, bContainLauncherVersion:true
+[03-08 00:54:29.864] [info] [thread 8404] chcb enter PostClientReq eHttpClientReqType:6
+[03-08 00:54:29.864] [info] [thread 8404] chcb enter _DoClientReq eHttpClientReqType:6
+[03-08 00:54:29.864] [info] [thread 8404] chcb leave _DoClientReq bRet:true
+[03-08 00:54:29.864] [info] [thread 8404] chcb leave SendClientReq bRet:true
+[03-08 00:54:29.864] [info] [thread 8404] clhc leave Post_ProtocolVer_LauncherVer_GameVer_Req bRet:true
+[03-08 00:54:29.864] [info] [thread 8404] cgv leave Query_ProtocolVer_LauncherVer_GameVer m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, strProtocolVer:0, strLauncherVer:1.1.0, strLanguage:ru-ru, strMainAppCode:TiaytKBUIEdoEwRT, strMainChannel:6, strGameVer:1.0.14, strGameAppCode:YDUTE5gscDZ229CW, strSeq:1, bContainProtocolVersion:false, bNeedContainGameVersion:true, strDeviceId:F11A3D55-A037-448E-9A16-A922AFD1372D, strTargetApp:EndField, bContainGameVersion:true, bContainLauncherVersion:true
+[03-08 00:54:29.864] [info] [thread 8404] cg DoQueryLatestGame m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, eReason:1, bRet:true, bReqireContinueDownload:false, bRetry:false, bSetDiffDownloadPathInGamePathSettingDlg:false, strReasonText:
+[03-08 00:54:29.864] [info] [thread 8404] cvwg leave _DoMainBtnClicked m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true
+[03-08 00:54:29.864] [info] [thread 8404] cvwg leave DoMainBtnClicked m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true
+[03-08 00:54:29.865] [info] [thread 8404] cgmb OnGameVerChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strGameVer:1.0.14
+[03-08 00:54:29.865] [info] [thread 8404] cgmb OnEntryChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, strEntry:Endfield.exe
+[03-08 00:54:29.865] [info] [thread 8404] cgmb OnCheckGameFilesStateFinished strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, eNewState:1
+[03-08 00:54:29.919] [info] [thread 8328] chum leave _DoClear_Normal m_bClearAppUpdateTempDataTaskDoing:false
+[03-08 00:54:30.247] [info] [thread 8404] chcb OnFinished eHttpClientReqType:6, nCode:200
+[03-08 00:54:30.247] [info] [thread 8404] clhc OnHttpClientReqResult eHttpClientReqType:6, bRet:true, nCode:200
+[03-08 00:54:30.247] [info] [thread 8404] cgv OnPost_ProtocalVer_LauncherVer_GameVer_Req_Result m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200, m_bProtocalVer_LauncherVer_GameVer_Querying:true
+[03-08 00:54:30.247] [info] [thread 8404] clgi ParseLaucherInfoJson parse bRet:true
+[03-08 00:54:30.248] [info] [thread 8404] clgi ParseLatestGameJson parse bRet:true
+[03-08 00:54:30.248] [info] [thread 8404] clssgl ParseLastestStopServiceGameInfoJson parse bRet:true
+[03-08 00:54:30.248] [info] [thread 8404] clgdi ParseLastestStopServiceGameInfoJson parse bRet:true
+[03-08 00:54:30.248] [info] [thread 8404] cgv OnPost_ProtocalVer_LauncherVer_GameVer_Req_Result m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bParseRet:true
+[03-08 00:54:30.248] [info] [thread 8404] claac OnLastestLauncherInfoChanged strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strSeq:1, m_lastestLauncherInfo:{"action":0,"description":"","md5":"","package_size":"0","request_version":"1.1.0","total_size":"0","version":"1.1.0","zip_package_url":""}
+[03-08 00:54:30.248] [info] [thread 8404] cgmb OnQueryLastestStopServiceGameInfoResult strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200
+[03-08 00:54:30.248] [info] [thread 8404] cvwgb OnQueryLastestStopServiceGameInfoResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200, pUserData:1
+[03-08 00:54:30.248] [info] [thread 8404] cvwgb OnQueryLastestStopServiceGameInfoResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, nCode:200, bStopServiceGame:false
+[03-08 00:54:30.248] [info] [thread 8404] cgmb OnQueryLastestGameDownloadableInfoResult strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200
+[03-08 00:54:30.248] [info] [thread 8404] cvwgb OnQueryLastestGameDownloadableInfoResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200, pUserData:1
+[03-08 00:54:30.248] [info] [thread 8404] cvwgb OnQueryLastestGameDownloadableInfoResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, nCode:200
+[03-08 00:54:30.248] [info] [thread 8404] cgmb OnLastestLauncherVerChanged strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:30.248] [info] [thread 8404] cgb OnLastestLauncherVerChanged m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bNeedUpdateProtocolVer:false, bLastestProtocolVerChangedProcessing:false, bLastestLauncherVerChangedProcessing:false
+[03-08 00:54:30.248] [info] [thread 8404] cgmb OnQuery_ProtocolVer_LauncherVer_GameVer_Result strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200
+[03-08 00:54:30.248] [info] [thread 8404] cg OnQuery_ProtocolVer_LauncherVer_GameVer_Result, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae bRet:true, nCode:200, eReason:1
+[03-08 00:54:30.248] [info] [thread 8404] cgmb OnQueryLatestGameResult strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200
+[03-08 00:54:30.248] [info] [thread 8404] cg OnQueryLatestGameResult m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200, eReason:1, m_eReasonForClickBtnType:1, m_bDelayDone:false, bNeedUpdateProtocolVer:false, bNotifyUpdate:false, m_bLastestGameInfoChanged:false, bLastestProtocolVerChangedProcessing:false, bLastestLauncherVerChangedProcessing:false, m_bQueryLatestGameResultProcessing:false, bStop:false, bGameBookable:false
+[03-08 00:54:30.248] [info] [thread 8404] cvwg OnQueryLatestGameResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200, m_bFirstQueryLatestGameResultFailed:false, m_bHasQueryLatestGameResultSuccess:true
+[03-08 00:54:30.250] [info] [thread 8404] cg _DoStartGame disk space, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, result:1
+[03-08 00:54:30.251] [info] [thread 8404] cgd StartDetect, strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, nTaskId:1
+[03-08 00:54:30.251] [info] [thread 8404] cvwgb OnGameMgrAfterHandleQueryLatestGameResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bQueryLatestGameResult:true, nCode:200, bDownloadOrUpdateGame:false, bCancelOpt:false
+[03-08 00:54:30.251] [info] [thread 8404] cvwg _EnableMainBtn m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, m_bMainBtnDisabled:false, strReason:game IsReasonForClickStartOrUpdateGameBtn true
+[03-08 00:54:30.251] [info] [thread 8404] cg leave OnQueryLatestGameResult m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:30.251] [info] [thread 8404] cgmb OnGpuDetectStart, strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:30.251] [info] [thread 8404] cgb OnGpuDetectStart
+[03-08 00:54:30.801] [info] [thread 8404] cchc OnFinished bRet:true, nCode:200, data:{"data": "{\"Nvidia\":{\"GPUWhiteList\":[],\"DriverVersionBlackList\":[{\"MinVersion\":\"0.0.05.7652\",\"MaxVersion\":\"0.0.05.7652\"}],\"SuggestedDriverVersion\":\"591.59\",\"MinReleaseDate\":\"2025.01.01\"},\"AMD\":{\"GPUWhiteList\":[],\"DriverVersionBlackList\":[{\"MinVersion\":\"31.0.14000.58004\",\"MaxVersion\":\"31.0.14000.58004\"}],\"SuggestedDriverVersion\":\"25.12.1\",\"MinReleaseDate\":\"2025.01.01\"},\"Intel\":{\"GPUWhiteList\":[],\"DriverVersionBlackList\":[],\"SuggestedDriverVersion\":\"32.0.101.8331\",\"MinReleaseDate\":\"2025.01.01\"}}"}
+[03-08 00:54:30.801] [info] [thread 8404] cha OnGetGpuDriverConfig nTaskId:1, bFound:true, bTimeout:false, bRet:true, nCode:200, strData:{"data": "{\"Nvidia\":{\"GPUWhiteList\":[],\"DriverVersionBlackList\":[{\"MinVersion\":\"0.0.05.7652\",\"MaxVersion\":\"0.0.05.7652\"}],\"SuggestedDriverVersion\":\"591.59\",\"MinReleaseDate\":\"2025.01.01\"},\"AMD\":{\"GPUWhiteList\":[],\"DriverVersionBlackList\":[{\"MinVersion\":\"31.0.14000.58004\",\"MaxVersion\":\"31.0.14000.58004\"}],\"SuggestedDriverVersion\":\"25.12.1\",\"MinReleaseDate\":\"2025.01.01\"},\"Intel\":{\"GPUWhiteList\":[],\"DriverVersionBlackList\":[],\"SuggestedDriverVersion\":\"32.0.101.8331\",\"MinReleaseDate\":\"2025.01.01\"}}"}
+[03-08 00:54:31.221] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:open_dialog, msgBody:{"dialog_name":"launcher_setting","uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae"}
+[03-08 00:54:31.221] [info] [thread 8404] pwa show setting wnd, eSettingType:1, m_bShowingSettingWnd:false
+[03-08 00:54:31.400] [info] [thread 8404] cmwb OnReqShowMarkWidget bShow:true, bShowLoading:false, bDelayShowLoading:true
+[03-08 00:54:31.400] [info] [thread 8404] qeeve _DoSendMsg msgType:show_mark_wnd_notify, msgBody:{"show":true}, bRet:true
+[03-08 00:54:31.400] [info] [thread 8404] cmwb OnNotifyShowModalDlg bShow:true, m_nShowModalDlgCount:0, strTitle:launcher_setting_dlg
+[03-08 00:54:31.458] [info] [thread 6460] cgd _NeedUpdateGpuDriver nRet:1, nTaskId:1, strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bUseDxRenderMode:false, gpuDriverStatus:1, nVendor:1, strVendor:NVIDIA, strGpuName:NVIDIA GeForce GTX 1650, strLocalDriverVersion:591.74, strSuggestedDriverVersion:591.59
+[03-08 00:54:31.512] [info] [thread 8404] cgmb OnGpuDetectEndt, strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, nRet:1, nVendor:1, strVendor:NVIDIA, strGpuName:NVIDIA GeForce GTX 1650, strLocalDriverVersion:591.74, strSuggestedDriverVersion:591.59
+[03-08 00:54:31.512] [info] [thread 8404] cgb OnGpuDetectEndt, nRet:1, nVendor:1, strVendor:NVIDIA, strGpuName:NVIDIA GeForce GTX 1650, strLocalDriverVersion:591.74, strSuggestedDriverVersion:591.59
+[03-08 00:54:31.514] [info] [thread 10760] cgsu create game process m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strCmdLine:"D:\GRYPHLINK\games\EndField Game\Endfield.exe"  -launcher_lang=ru-ru   -launcher_sub_channel=6 , bRet:1, dwProcessId:4820, dwError:0, strError:
+[03-08 00:54:31.519] [info] [thread 8404] cga OnGameStart, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, dwError:0, strError:
+[03-08 00:54:31.519] [info] [thread 8404] cga OnGameStart, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:31.519] [info] [thread 8404] cga _FireGameStateChangedSignal, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, eGameState:19, m_eOldGameState:0, m_eCurGameState:0
+[03-08 00:54:31.520] [info] [thread 8404] cgmb OnStartGameResult strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, dwError:0, strError:
+[03-08 00:54:31.520] [info] [thread 8404] cg OnStartGameResult, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, dwError:0, strError:
+[03-08 00:54:31.520] [info] [thread 8404] cgmb OnGameStateChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, eOldState:0, eNewState:19
+[03-08 00:54:31.520] [info] [thread 8404] cvwg OnGameStateChanged m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, eOldState:0, eNewState:19
+[03-08 00:54:31.520] [info] [thread 8404] cwdmb OnMainBtnStateInfoChanged info:strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, eMainBtnType:30, strState:in_game, bGameServiceStopped:0, bNeedLogin:0, bNeedPurchase:0, bQueryLatestGameResult:1, bPreparingStartGame:0
+[03-08 00:54:31.520] [info] [thread 8404] qeeve _DoSendMsg msgType:main_btn_state_notify, msgBody:{"uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","state":"in_game","text_normal":"Запущено","text_hover":"Запущено","tooltip":"","sub_tip":""}, bRet:true
+[03-08 00:54:31.521] [info] [thread 8404] qeeve _DoSendMsg msgType:game_setting_notify, msgBody:{"uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","render_mode":"vk","show_render_mode":false}, bRet:true
+[03-08 00:54:31.521] [info] [thread 8404] cvwg _EnableMainBtn m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, m_bMainBtnDisabled:true, strReason:eMainBtnType: 30
+[03-08 00:54:31.521] [info] [thread 8404] cgmb OnGameStart strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:31.521] [info] [thread 8404] cg OnGameStart, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:31.521] [info] [thread 8404] cmwb OnGameStart, strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:31.522] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{"show":true}
+[03-08 00:54:31.532] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{"uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","state":"in_game","text_normal":"Запущено","text_hover":"Запущено","tooltip":"","sub_tip":""}
+[03-08 00:54:31.532] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{"uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","render_mode":"vk","show_render_mode":false}
+[03-08 00:54:35.214] [info] [thread 10760] cgsu Child process exits.
+[03-08 00:54:35.215] [info] [thread 8404] cga OnGameEnd, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:35.215] [info] [thread 8404] cga _FireGameStateChangedSignal, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, eGameState:20, m_eOldGameState:0, m_eCurGameState:19
+[03-08 00:54:35.215] [info] [thread 8404] cga _FireGameStateChangedSignal, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, eGameState:0, m_eOldGameState:19, m_eCurGameState:20
+[03-08 00:54:35.215] [info] [thread 8404] clgai _TryStartNextAutoDownloadTask m_nDisableAutoDownloadGameCount:0, strCurGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:35.215] [info] [thread 8404] clgai _TryStartNextAutoDownloadTask req auto start next download task strGameUUId:, bGameCompleteCheck:false, nCount:0
+[03-08 00:54:35.215] [info] [thread 8404] cgmb OnGameEnd strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:35.215] [info] [thread 8404] cg OnGameEnd, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:35.215] [info] [thread 8404] cvwg _EnableMainBtn m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, m_bMainBtnDisabled:false, strReason:game IsReasonForClickStartOrUpdateGameBtn true
+[03-08 00:54:35.215] [info] [thread 8404] cwdmb OnMainBtnStateInfoChanged info:strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, eMainBtnType:1, strState:start_game, bGameServiceStopped:0, bNeedLogin:0, bNeedPurchase:0, bQueryLatestGameResult:1, bPreparingStartGame:0
+[03-08 00:54:35.215] [info] [thread 8404] qeeve _DoSendMsg msgType:main_btn_state_notify, msgBody:{"uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","state":"start_game","text_normal":"Играть","text_hover":"Играть","tooltip":"","sub_tip":""}, bRet:true
+[03-08 00:54:35.215] [info] [thread 8404] qeeve _DoSendMsg msgType:game_setting_notify, msgBody:{"uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","render_mode":"vk","show_render_mode":true}, bRet:true
+[03-08 00:54:35.215] [info] [thread 8404] cmwb OnGameEnd, strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:35.215] [info] [thread 8404] cgmb OnGameStateChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, eOldState:19, eNewState:20
+[03-08 00:54:35.215] [info] [thread 8404] cvwg OnGameStateChanged m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, eOldState:19, eNewState:20
+[03-08 00:54:35.215] [info] [thread 8404] cgmb OnGameStateChanged strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, eOldState:20, eNewState:0
+[03-08 00:54:35.215] [info] [thread 8404] cvwg OnGameStateChanged m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, eOldState:20, eNewState:0
+[03-08 00:54:35.215] [info] [thread 8404] cgmb OnEnterTryStartAutoStartNextDownloadTask
+[03-08 00:54:35.215] [info] [thread 8404] cgmb OnLeaveTryStartAutoStartNextDownloadTask
+[03-08 00:54:35.228] [info] [thread 8404] cgv enter Query_ProtocolVer_LauncherVer_GameVer m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:35.229] [info] [thread 8404] clhc enter Post_ProtocolVer_LauncherVer_GameVer_Req strProtocolVersion:0, strLauncherVersion:1.1.0, strLanguage:ru-ru, strAppCode:TiaytKBUIEdoEwRT, strChannel:6, strGameVersion:1.0.14, strGameAppCode:YDUTE5gscDZ229CW, strGameChannel:6, strGameSubChannel:6, strSeq:8, bContainProtocolVersion:false, bContainGameVersion:true strDeviceId:F11A3D55-A037-448E-9A16-A922AFD1372D, strTargetApp:EndField, bContainLauncherVersion:true
+[03-08 00:54:35.229] [info] [thread 8404] chcb enter PostClientReq eHttpClientReqType:6
+[03-08 00:54:35.229] [info] [thread 8404] chcb enter _DoClientReq eHttpClientReqType:6
+[03-08 00:54:35.229] [info] [thread 8404] chcb leave _DoClientReq bRet:true
+[03-08 00:54:35.229] [info] [thread 8404] chcb leave SendClientReq bRet:true
+[03-08 00:54:35.229] [info] [thread 8404] clhc leave Post_ProtocolVer_LauncherVer_GameVer_Req bRet:true
+[03-08 00:54:35.229] [info] [thread 8404] cgv leave Query_ProtocolVer_LauncherVer_GameVer m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, strProtocolVer:0, strLauncherVer:1.1.0, strLanguage:ru-ru, strMainAppCode:TiaytKBUIEdoEwRT, strMainChannel:6, strGameVer:1.0.14, strGameAppCode:YDUTE5gscDZ229CW, strSeq:8, bContainProtocolVersion:false, bNeedContainGameVersion:true, strDeviceId:F11A3D55-A037-448E-9A16-A922AFD1372D, strTargetApp:EndField, bContainGameVersion:true, bContainLauncherVersion:true
+[03-08 00:54:35.229] [info] [thread 8404] clm main window active
+[03-08 00:54:35.229] [info] [thread 8404] clm user request user basic info
+[03-08 00:54:35.229] [info] [thread 8404] chcb enter SendClientReq eHttpClientReqType:14
+[03-08 00:54:35.229] [info] [thread 8404] chcb enter _DoClientReq eHttpClientReqType:14
+[03-08 00:54:35.229] [info] [thread 8404] chcb leave _DoClientReq bRet:true
+[03-08 00:54:35.229] [info] [thread 8404] chcb leave SendClientReq bRet:true
+[03-08 00:54:35.229] [info] [thread 8404] login http client enter user_info_v1_basic bRet:true
+[03-08 00:54:35.229] [info] [thread 8404] clm request user basic info success
+[03-08 00:54:35.230] [info] [thread 8404] clm main window active
+[03-08 00:54:35.230] [info] [thread 8404] clm user request user basic info
+[03-08 00:54:35.230] [info] [thread 8404] chcb enter SendClientReq eHttpClientReqType:14
+[03-08 00:54:35.230] [info] [thread 8404] chcb enter _DoClientReq eHttpClientReqType:14
+[03-08 00:54:35.230] [info] [thread 8404] chcb leave _DoClientReq bRet:true
+[03-08 00:54:35.230] [info] [thread 8404] chcb leave SendClientReq bRet:true
+[03-08 00:54:35.230] [info] [thread 8404] login http client enter user_info_v1_basic bRet:true
+[03-08 00:54:35.230] [info] [thread 8404] clm request user basic info success
+[03-08 00:54:35.231] [info] [thread 8404] clm main window active
+[03-08 00:54:35.231] [info] [thread 8404] clm user request user basic info
+[03-08 00:54:35.231] [info] [thread 8404] chcb enter SendClientReq eHttpClientReqType:14
+[03-08 00:54:35.231] [info] [thread 8404] chcb enter _DoClientReq eHttpClientReqType:14
+[03-08 00:54:35.231] [info] [thread 8404] chcb leave _DoClientReq bRet:true
+[03-08 00:54:35.231] [info] [thread 8404] chcb leave SendClientReq bRet:true
+[03-08 00:54:35.231] [info] [thread 8404] login http client enter user_info_v1_basic bRet:true
+[03-08 00:54:35.231] [info] [thread 8404] clm request user basic info success
+[03-08 00:54:35.231] [info] [thread 8404] clm main window active
+[03-08 00:54:35.231] [info] [thread 8404] clm user request user basic info
+[03-08 00:54:35.231] [info] [thread 8404] chcb enter SendClientReq eHttpClientReqType:14
+[03-08 00:54:35.231] [info] [thread 8404] chcb enter _DoClientReq eHttpClientReqType:14
+[03-08 00:54:35.231] [info] [thread 8404] chcb leave _DoClientReq bRet:true
+[03-08 00:54:35.231] [info] [thread 8404] chcb leave SendClientReq bRet:true
+[03-08 00:54:35.231] [info] [thread 8404] login http client enter user_info_v1_basic bRet:true
+[03-08 00:54:35.231] [info] [thread 8404] clm request user basic info success
+[03-08 00:54:35.231] [info] [thread 8404] clm main window active
+[03-08 00:54:35.231] [info] [thread 8404] clm user request user basic info
+[03-08 00:54:35.231] [info] [thread 8404] chcb enter SendClientReq eHttpClientReqType:14
+[03-08 00:54:35.231] [info] [thread 8404] chcb enter _DoClientReq eHttpClientReqType:14
+[03-08 00:54:35.232] [info] [thread 8404] chcb leave _DoClientReq bRet:true
+[03-08 00:54:35.232] [info] [thread 8404] chcb leave SendClientReq bRet:true
+[03-08 00:54:35.232] [info] [thread 8404] login http client enter user_info_v1_basic bRet:true
+[03-08 00:54:35.232] [info] [thread 8404] clm request user basic info success
+[03-08 00:54:35.251] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{"uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","state":"start_game","text_normal":"Играть","text_hover":"Играть","tooltip":"","sub_tip":""}
+[03-08 00:54:35.260] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{"uuid":"cd2d0f009b9c3997c1e4d319ed1a0eae","render_mode":"vk","show_render_mode":true}
+[03-08 00:54:35.630] [info] [thread 8404] chcb OnFinished eHttpClientReqType:6, nCode:200
+[03-08 00:54:35.630] [info] [thread 8404] clhc OnHttpClientReqResult eHttpClientReqType:6, bRet:true, nCode:200
+[03-08 00:54:35.630] [info] [thread 8404] cgv OnPost_ProtocalVer_LauncherVer_GameVer_Req_Result m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200, m_bProtocalVer_LauncherVer_GameVer_Querying:true
+[03-08 00:54:35.631] [info] [thread 8404] clgi ParseLaucherInfoJson parse bRet:true
+[03-08 00:54:35.631] [info] [thread 8404] clgi ParseLatestGameJson parse bRet:true
+[03-08 00:54:35.631] [info] [thread 8404] clssgl ParseLastestStopServiceGameInfoJson parse bRet:true
+[03-08 00:54:35.631] [info] [thread 8404] clgdi ParseLastestStopServiceGameInfoJson parse bRet:true
+[03-08 00:54:35.631] [info] [thread 8404] cgv OnPost_ProtocalVer_LauncherVer_GameVer_Req_Result m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bParseRet:true
+[03-08 00:54:35.631] [info] [thread 8404] claac OnLastestLauncherInfoChanged strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, strSeq:8, m_lastestLauncherInfo:{"action":0,"description":"","md5":"","package_size":"0","request_version":"1.1.0","total_size":"0","version":"1.1.0","zip_package_url":""}
+[03-08 00:54:35.631] [info] [thread 8404] cgmb OnQueryLastestStopServiceGameInfoResult strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200
+[03-08 00:54:35.631] [info] [thread 8404] cvwgb OnQueryLastestStopServiceGameInfoResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200, pUserData:8
+[03-08 00:54:35.631] [info] [thread 8404] cvwgb OnQueryLastestStopServiceGameInfoResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, nCode:200, bStopServiceGame:false
+[03-08 00:54:35.631] [info] [thread 8404] cgmb OnQueryLastestGameDownloadableInfoResult strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200
+[03-08 00:54:35.631] [info] [thread 8404] cvwgb OnQueryLastestGameDownloadableInfoResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200, pUserData:8
+[03-08 00:54:35.631] [info] [thread 8404] cvwgb OnQueryLastestGameDownloadableInfoResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, nCode:200
+[03-08 00:54:35.631] [info] [thread 8404] cgmb OnLastestLauncherVerChanged strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:35.631] [info] [thread 8404] cgb OnLastestLauncherVerChanged m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bNeedUpdateProtocolVer:false, bLastestProtocolVerChangedProcessing:false, bLastestLauncherVerChangedProcessing:false
+[03-08 00:54:35.631] [info] [thread 8404] cgmb OnQuery_ProtocolVer_LauncherVer_GameVer_Result strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200
+[03-08 00:54:35.631] [info] [thread 8404] cg OnQuery_ProtocolVer_LauncherVer_GameVer_Result, m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae bRet:true, nCode:200, eReason:8
+[03-08 00:54:35.631] [info] [thread 8404] cgmb OnQueryLatestGameResult strGameUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200
+[03-08 00:54:35.631] [info] [thread 8404] cg OnQueryLatestGameResult m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200, eReason:8, m_eReasonForClickBtnType:0, m_bDelayDone:false, bNeedUpdateProtocolVer:false, bNotifyUpdate:false, m_bLastestGameInfoChanged:false, bLastestProtocolVerChangedProcessing:false, bLastestLauncherVerChangedProcessing:false, m_bQueryLatestGameResultProcessing:false, bStop:false, bGameBookable:false
+[03-08 00:54:35.631] [info] [thread 8404] cvwg OnQueryLatestGameResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bRet:true, nCode:200, m_bFirstQueryLatestGameResultFailed:false, m_bHasQueryLatestGameResultSuccess:true
+[03-08 00:54:35.631] [info] [thread 8404] cvwgb OnGameMgrAfterHandleQueryLatestGameResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bQueryLatestGameResult:true, nCode:200, bDownloadOrUpdateGame:false, bCancelOpt:false
+[03-08 00:54:35.631] [info] [thread 8404] cg leave OnQueryLatestGameResult m_strUUID:cd2d0f009b9c3997c1e4d319ed1a0eae
+[03-08 00:54:35.963] [info] [thread 8404] chcb OnFinished eHttpClientReqType:14, nCode:200
+[03-08 00:54:35.963] [info] [thread 8404] login http client OnHttpClientReqResult eHttpClientReqType:14, bRet:true, nCode:200
+[03-08 00:54:35.963] [info] [thread 8404] get user basic end,ret:true,code:200
+[03-08 00:54:35.963] [info] [thread 8404] clm signal login result, result:true, msg:
+[03-08 00:54:35.963] [info] [thread 8404] cwdmb OnLoginResult bSuccess:true, msg:
+[03-08 00:54:35.963] [info] [thread 8404] qeeve _DoSendMsg msgType:user_login_notify, msgBody:{}, bRet:true
+[03-08 00:54:35.963] [info] [thread 8404] cvwgb OnLoginResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bSuccess:true
+[03-08 00:54:35.963] [info] [thread 8404] cmwb user basic info succussfull
+[03-08 00:54:35.964] [info] [thread 8404] cwdmb OnUserBasicInfo strPhone:, strUserID:1013305954, strNickName:, strEmail:is*****a9@gmail.com
+[03-08 00:54:35.964] [info] [thread 8404] qeeve _DoSendMsg msgType:user_info_notify, msgBody:{"phone":"","user_id":"1013305954","nick_name":"","email":"is*****a9@gmail.com"}, bRet:true
+[03-08 00:54:35.964] [info] [thread 8404] cvwgb OnUserBasicInfo m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, phone:, hgID:1013305954, strNickName:, strEmail:is*****a9@gmail.com
+[03-08 00:54:35.964] [info] [thread 8404] clm user basic info get successfull, phone:, user_id:1013305954, login type:10
+[03-08 00:54:35.965] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{}
+[03-08 00:54:35.965] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{"phone":"","user_id":"1013305954","nick_name":"","email":"is*****a9@gmail.com"}
+[03-08 00:54:36.003] [info] [thread 8404] chcb OnFinished eHttpClientReqType:14, nCode:200
+[03-08 00:54:36.003] [info] [thread 8404] chcb OnFinished eHttpClientReqType:14, nCode:200
+[03-08 00:54:36.003] [info] [thread 8404] login http client OnHttpClientReqResult eHttpClientReqType:14, bRet:true, nCode:200
+[03-08 00:54:36.003] [info] [thread 8404] get user basic end,ret:true,code:200
+[03-08 00:54:36.003] [info] [thread 8404] clm signal login result, result:true, msg:
+[03-08 00:54:36.003] [info] [thread 8404] cwdmb OnLoginResult bSuccess:true, msg:
+[03-08 00:54:36.003] [info] [thread 8404] qeeve _DoSendMsg msgType:user_login_notify, msgBody:{}, bRet:true
+[03-08 00:54:36.003] [info] [thread 8404] cvwgb OnLoginResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bSuccess:true
+[03-08 00:54:36.003] [info] [thread 8404] cmwb user basic info succussfull
+[03-08 00:54:36.003] [info] [thread 8404] cwdmb OnUserBasicInfo strPhone:, strUserID:1013305954, strNickName:, strEmail:is*****a9@gmail.com
+[03-08 00:54:36.004] [info] [thread 8404] qeeve _DoSendMsg msgType:user_info_notify, msgBody:{"phone":"","user_id":"1013305954","nick_name":"","email":"is*****a9@gmail.com"}, bRet:true
+[03-08 00:54:36.004] [info] [thread 8404] cvwgb OnUserBasicInfo m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, phone:, hgID:1013305954, strNickName:, strEmail:is*****a9@gmail.com
+[03-08 00:54:36.004] [info] [thread 8404] clm user basic info get successfull, phone:, user_id:1013305954, login type:10
+[03-08 00:54:36.004] [info] [thread 8404] login http client OnHttpClientReqResult eHttpClientReqType:14, bRet:true, nCode:200
+[03-08 00:54:36.004] [info] [thread 8404] get user basic end,ret:true,code:200
+[03-08 00:54:36.004] [info] [thread 8404] clm signal login result, result:true, msg:
+[03-08 00:54:36.004] [info] [thread 8404] cwdmb OnLoginResult bSuccess:true, msg:
+[03-08 00:54:36.004] [info] [thread 8404] qeeve _DoSendMsg msgType:user_login_notify, msgBody:{}, bRet:true
+[03-08 00:54:36.004] [info] [thread 8404] cvwgb OnLoginResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bSuccess:true
+[03-08 00:54:36.004] [info] [thread 8404] cmwb user basic info succussfull
+[03-08 00:54:36.004] [info] [thread 8404] cwdmb OnUserBasicInfo strPhone:, strUserID:1013305954, strNickName:, strEmail:is*****a9@gmail.com
+[03-08 00:54:36.004] [info] [thread 8404] qeeve _DoSendMsg msgType:user_info_notify, msgBody:{"phone":"","user_id":"1013305954","nick_name":"","email":"is*****a9@gmail.com"}, bRet:true
+[03-08 00:54:36.004] [info] [thread 8404] cvwgb OnUserBasicInfo m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, phone:, hgID:1013305954, strNickName:, strEmail:is*****a9@gmail.com
+[03-08 00:54:36.004] [info] [thread 8404] clm user basic info get successfull, phone:, user_id:1013305954, login type:10
+[03-08 00:54:36.005] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{}
+[03-08 00:54:36.006] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{"phone":"","user_id":"1013305954","nick_name":"","email":"is*****a9@gmail.com"}
+[03-08 00:54:36.008] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{}
+[03-08 00:54:36.011] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{"phone":"","user_id":"1013305954","nick_name":"","email":"is*****a9@gmail.com"}
+[03-08 00:54:36.057] [info] [thread 8404] chcb OnFinished eHttpClientReqType:14, nCode:200
+[03-08 00:54:36.057] [info] [thread 8404] login http client OnHttpClientReqResult eHttpClientReqType:14, bRet:true, nCode:200
+[03-08 00:54:36.057] [info] [thread 8404] get user basic end,ret:true,code:200
+[03-08 00:54:36.057] [info] [thread 8404] clm signal login result, result:true, msg:
+[03-08 00:54:36.058] [info] [thread 8404] cwdmb OnLoginResult bSuccess:true, msg:
+[03-08 00:54:36.058] [info] [thread 8404] qeeve _DoSendMsg msgType:user_login_notify, msgBody:{}, bRet:true
+[03-08 00:54:36.058] [info] [thread 8404] cvwgb OnLoginResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bSuccess:true
+[03-08 00:54:36.058] [info] [thread 8404] cmwb user basic info succussfull
+[03-08 00:54:36.058] [info] [thread 8404] cwdmb OnUserBasicInfo strPhone:, strUserID:1013305954, strNickName:, strEmail:is*****a9@gmail.com
+[03-08 00:54:36.058] [info] [thread 8404] qeeve _DoSendMsg msgType:user_info_notify, msgBody:{"phone":"","user_id":"1013305954","nick_name":"","email":"is*****a9@gmail.com"}, bRet:true
+[03-08 00:54:36.058] [info] [thread 8404] cvwgb OnUserBasicInfo m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, phone:, hgID:1013305954, strNickName:, strEmail:is*****a9@gmail.com
+[03-08 00:54:36.058] [info] [thread 8404] clm user basic info get successfull, phone:, user_id:1013305954, login type:10
+[03-08 00:54:36.059] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{}
+[03-08 00:54:36.059] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{"phone":"","user_id":"1013305954","nick_name":"","email":"is*****a9@gmail.com"}
+[03-08 00:54:36.099] [info] [thread 8404] chcb OnFinished eHttpClientReqType:14, nCode:200
+[03-08 00:54:36.099] [info] [thread 8404] login http client OnHttpClientReqResult eHttpClientReqType:14, bRet:true, nCode:200
+[03-08 00:54:36.099] [info] [thread 8404] get user basic end,ret:true,code:200
+[03-08 00:54:36.099] [info] [thread 8404] clm signal login result, result:true, msg:
+[03-08 00:54:36.099] [info] [thread 8404] cwdmb OnLoginResult bSuccess:true, msg:
+[03-08 00:54:36.099] [info] [thread 8404] qeeve _DoSendMsg msgType:user_login_notify, msgBody:{}, bRet:true
+[03-08 00:54:36.099] [info] [thread 8404] cvwgb OnLoginResult m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, bSuccess:true
+[03-08 00:54:36.099] [info] [thread 8404] cmwb user basic info succussfull
+[03-08 00:54:36.099] [info] [thread 8404] cwdmb OnUserBasicInfo strPhone:, strUserID:1013305954, strNickName:, strEmail:is*****a9@gmail.com
+[03-08 00:54:36.099] [info] [thread 8404] qeeve _DoSendMsg msgType:user_info_notify, msgBody:{"phone":"","user_id":"1013305954","nick_name":"","email":"is*****a9@gmail.com"}, bRet:true
+[03-08 00:54:36.099] [info] [thread 8404] cvwgb OnUserBasicInfo m_strUUId:cd2d0f009b9c3997c1e4d319ed1a0eae, phone:, hgID:1013305954, strNickName:, strEmail:is*****a9@gmail.com
+[03-08 00:54:36.099] [info] [thread 8404] clm user basic info get successfull, phone:, user_id:1013305954, login type:10
+[03-08 00:54:36.101] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{}
+[03-08 00:54:36.101] [info] [thread 8404] cwdmb OnRecvMsgFromWeb msgType:log, msgBody:{"phone":"","user_id":"1013305954","nick_name":"","email":"is*****a9@gmail.com"}
